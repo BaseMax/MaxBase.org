@@ -4,15 +4,13 @@ date: 2019-01-23
 lang: en
 author: Max
 categories: job
-description: I must say that: the project that has been under construction for more than 10 years is not easily abandoned.
-tags: job google work et etlang my-programming-language
+description: Hello World, Especially programmers and computer specialists.
+tags: job google work my-programming-language
 title: Will I go to the Google Co?
 ---
 
-
 But this decision is not so simple.
 If I go ... What are the current projects?
-
 
 This offer has been made by Google.
 
@@ -24,7 +22,6 @@ And do not worry because we do not destroy the project.
 If my decision is final and there is no problem, I will go to Google ... and there is likely to be working on developing the next generation Go language.
 
 But this does not make projects abandon.
-
 
 ## Can a person or group work for a rival project?
 
@@ -48,7 +45,6 @@ myself, friends, other persons.
 The main goal is to help the community and progress.
 
 We should try to we be more usefull for all.
-
 
 ## Final
 
