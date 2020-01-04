@@ -26,3 +26,10 @@ excerpt_separator: <!--more-->
 #     profile: false
 #     startings: []
 
+collections:
+  tags:
+    output: true
+    permalink: /tag/:name/ # optional
+  categories:
+    output: true
+    permalink: /category/:name/ # optional
