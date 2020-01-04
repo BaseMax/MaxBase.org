@@ -129,6 +129,10 @@ ul.list li {
 ul.posts {
 
 }
+ul.posts.posts-main {
+	margin-left: 25px;
+	margin-top: 15px;
+}
 ul.posts li.post-item {
 	margin-bottom: 35px;
 	list-style: none;
