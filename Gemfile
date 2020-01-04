@@ -1,14 +1,10 @@
 source 'https://rubygems.org'
 gem 'github-pages', group: :jekyll_plugins
 group :jekyll_plugins do
+  gem 'jekyll'
   gem "jekyll-paginate"
   gem "jekyll-category-pages"
+  gem 'jekyll-tagging'
+  gem 'jekyll-gist'
+  #gem 'octopress-minify-html'
 end
-gem 'jekyll'
-gem 'jekyll-tagging'
-# group :jekyll_plugins do
-#   gem 'octopress-minify-html'
-# end
-gem 'jemoji'
-gem 'jekyll-gist'
-
