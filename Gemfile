@@ -5,10 +5,10 @@ group :jekyll_plugins do
   gem "jekyll-category-pages"
 end
 gem 'jekyll'
-group :jekyll_plugins do
-  gem 'jekyll-tagging'
-end
-# gem 'jekyll-tagging'
+gem 'jekyll-tagging'
 # group :jekyll_plugins do
 #   gem 'octopress-minify-html'
 # end
+gem 'jemoji'
+gem 'jekyll-gist'
+
