@@ -1,0 +1,12 @@
+---
+layout: index
+title: page.tag
+---
+<h2>Tag '<span>{{page.tag}}</span>'</h2>
+    <ul class="posts" style="margin-left: 25px;margin-top: 15px;">
+        {% for post in site.posts %}
+        {% if post.tags contains page.tag %}
+        {% include post-item-short.html %}
+        {% endif %}
+        {% endfor %}
+        </ul>

@@ -1,0 +1,10 @@
+---
+layout: index
+title: page.title
+---
+<h2>Category index '<span>{{page.title}}</span>'</h2>
+	<ul class="posts" style="margin-left: 25px;margin-top: 15px;">
+		{% for post in page.posts %}
+		{% include post-item-short.html %}
+		{% endfor %}
+		</ul>

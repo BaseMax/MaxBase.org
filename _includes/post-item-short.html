@@ -1,0 +1,8 @@
+<li>
+	<span><time datetime="{{ post.date | date: "%B %-d, %Y" }}">{{ post.date | date_to_string }}</time></span> &raquo;
+	{% if post.lang == "fa" %}
+		<div class="text-rtl"><a href="{{ post.url }}">{{ post.title }}</a></div>
+	{% else %}
+		<a href="{{ post.url }}">{{ post.title }}</a>
+	{% endif %}
+</li>

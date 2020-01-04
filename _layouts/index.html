@@ -1,0 +1,84 @@
+---
+layout: default
+---
+<aside class="sidebar">
+			<div class="sidebar-padding">
+				<div class="sidebar-author">
+					<a href="/">
+						<img src="{{ site.url }}/assets/image/avatar.jpg" width="75" height="75" alt="Max Base">
+					</a>
+					<div class="sidebar-author-content">
+						<h1 class="sidebar-author-title">Hi, I'm Max Base 👋</h1>
+						<p class="sidebar-author-subtitle">Programming language developer, Full-stack programmer</p>
+					</div>
+				</div>
+
+				<ul class="menu">
+					<li class="post-item"><a class="link-underlined" href="/">Articles</a></li>
+					<li class="post-item"><a href="{{ site.url }}/contact/">Contact me</a></li>
+					<li class="post-item"><a href="{{ site.url }}/about/">About me</a></li>
+				</ul>
+
+				<ul class="links">
+					<li class="post-item">
+						<a href="https://www.github.com/BaseMax" target="_blank" rel="noopener noreferrer"><span class="ti-github"></span> <p class="hidden">Max Base GitHub</p></a>
+					</li>
+					<li class="post-item">
+						<a href="https://twitter.com/MaxProgram" target="_blank" rel="noopener noreferrer"><span class="ti-twitter-alt"></span> <p class="hidden">Max Base Twitter</p></a>
+					</li>
+					<li class="post-item">
+						<a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer"><span class="ti-linkedin"></span> <p class="hidden">Max Base Linkedin</p></a>
+					</li>
+					<li class="post-item">
+						<a href="{{ site.url }}/sitemap.xml" target="_blank" rel="noopener noreferrer"><span class="ti-rss-alt"></span> <p class="hidden">Max Base RSS / Sitemap</p></a>
+					</li>
+					<!-- <li class="post-item"> -->
+						<!-- <a href="mailto: Max Base Code [@] Gmail {.DOT.} com" target="_blank" rel="noopener noreferrer"><span class="ti-email"></span> <p class="hidden">Max Base Email</p></a> -->
+					<!-- </li> -->
+					<li class="post-item">
+						<a href="https://www.instagram.com/max.base" target="_blank" rel="noopener noreferrer"><span class="ti-instagram"></span> <p class="hidden">Max Base Instagram</p></a>
+					</li>
+				</ul>
+
+				<ul class="list">
+					<li class="post-item">
+						<a href="https://github.com/One-Language">Do you interest in to funds for compiler?</a>
+					</li>
+				</ul>
+				<br>
+				<b>Categories: </b>
+				<ul class="list">
+					{% assign categories_list = site.categories %}
+						{% if categories_list.first[0] == null %}
+							{% for category in categories_list %}
+					<li class="post-item"><a href="{{ site.url }}/category/{{ category | downcase | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a></li>
+							{% endfor %}
+						{% else %}
+							{% for category in categories_list %}
+					<li class="post-item"><a href="{{ site.url }}/category/{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a></li>
+							{% endfor %}
+						{% endif %}
+					{% assign categories_list = nil %}
+				</ul>
+				<!-- <br> -->
+				<ul class="list">
+					<li class="post-item">
+						<!-- https://emojiterra.com/flag-for-united-states/ -->
+						<a href="{{ site.url }}/en/">🇺🇸 English Language</a>
+					</li>
+					<li class="post-item">
+						<a href="{{ site.url }}/fa/">🇮🇷 Persian Language</a>
+					</li>
+				</ul>
+				<!-- <b>Top Tags: </b> -->
+				<!-- <ul class="list"> -->
+					<!-- <li class="post-item"> -->
+						<!-- <a href="/link/">Google</a> -->
+					<!-- </li> -->
+				<!-- </ul> -->
+
+			</div>
+		</aside>
+		<content>
+			{{ content }}
+		</content>

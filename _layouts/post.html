@@ -1,0 +1,82 @@
+---
+layout: default
+---
+<main>
+		{% if page.lang == "fa" %}
+		<div class="float-rtl">
+		{% else %}
+		<div>
+		{% endif %}
+				<h1 class="post-single-title">{{ page.title }}</h1>
+
+				<div class="post-single-subtitle">
+					<span class="post-single-line-through"></span>
+					<span class="post-single-line-timeread">
+					☕
+					{% assign words = page.content | number_of_words %}
+					{% if words < 360 %}1{% else %}{{ words | divided_by:180 }}{% endif %}
+					{% if page.lang == "fa" %}
+					دقیقه مطالعه
+					{% else %}
+					min read
+					{% endif %}
+					</span>
+					<span class="post-single-line-through"></span>
+				</div>
+
+				<div class="clear"></div>
+
+				<center>
+					<span class="post-meta-category">
+						{% assign sortedCategories = page.categories | sort %}
+						{% for category in sortedCategories %}
+						<a class="link-normal" href="{{ site.url }}/category/{{ category }}">#{{ category }}</a> 
+						{% unless forloop.last %}, {% endunless %}
+						{% endfor %}
+					</span>
+					<br>
+				</center>
+
+
+				<div class="post-single-body">
+					{{ content }}
+					<br><br>
+				</div>
+
+				<div class="post-single__meta">
+					<span class="post-single__date">
+						{% if page.lang == "fa" %}
+						منتشر شده در
+						{% else %}
+						Published
+						{% endif %}
+						{{ page.date | date_to_string }}
+					</span>
+					<span class="post-single__comments">
+						<span class="ti-twitter-alt"></span>
+						<a class="link-underlined" href="https://mobile.twitter.com/search?q={{ site.url }}{{ post.url }}" target="_blank" rel="noopener noreferrer">
+							{% if page.lang == "fa" %}
+							گفتگو در مورد این مقاله در تویتر
+							{% else %}
+							Discuss this article on Twitter
+							{% endif %}
+						</a>
+					</span>
+				</div>
+
+				<div class="clear"></div>
+
+				<ul class="tags">
+					{% for tag in page.tags %}
+						<li>
+							<a href="{{ site.url }}/tag/{{ tag }}">#{{ tag }}</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</main>
+		<ul class="tags fix-top-left">
+			<li>
+				<a href="{{ site.url }}/">Go to main page</a>
+			</li>
+		</ul>

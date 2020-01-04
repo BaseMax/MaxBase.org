@@ -1,0 +1,26 @@
+# languages: ["en", "fa"]
+lang: en
+languages: ["en", "fa"]
+permalink: /:year/:month/:day/:categories/:title/
+#paginate: 2 # <- turn on pagination with two posts per page
+plugins:
+  - jekyll/tagging
+  - octopress-minify-html
+  - jekyll-category-pages
+#  - jekyll-paginate
+tag_page_layout: tag
+tag_page_dir: tag
+#paginate_path: "/articles/:num/"
+excerpt_separator: <!--more-->
+# env: production
+# minify_html: false
+# compress_html:
+#     clippings: []
+#     comments: []
+#     endings: []
+#     ignore:
+#     envs: []
+#     blanklines: false
+#     profile: false
+#     startings: []
+

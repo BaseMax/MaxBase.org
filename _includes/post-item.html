@@ -1,0 +1,47 @@
+{% if post.lang == "fa" %}
+<li class="post-item float-rtl">
+{% else %}
+<li class="post-item">
+{% endif %}
+	<h2 class="post-title">
+		<a href="{{ post.url }}">
+			{{ post.title }}
+		</a>
+	</h2>
+	<div class="post-meta">
+		<time datetime="{{ post.date | date: "%B %-d, %Y" }}">{{ post.date | date_to_string }}</time>
+		<span class="post-meta-divider"></span>
+		<small class="post-meta-readtime">
+			☕ 
+			{% assign words = post.content | number_of_words %}
+			{% if words < 360 %}1{% else %}{{ words | divided_by:180 }}{% endif %}
+			{% if post.lang == "fa" %}
+			دقیقه مطالعه
+			{% else %}
+			min read
+			{% endif %}
+		</small>
+	</div>
+	{% comment %}
+	<span class="post-meta-category">
+		{% assign sortedCategories = post.categories | sort %}
+		{% for category in sortedCategories %}
+		<a class="link-normal" href="{{ site.url }}/category/{{ category }}">#{{ category }}</a> 
+		{% endfor %}
+	</span>
+	{% endcomment %}
+	<div class="clear"></div>
+	<div class="post-text">
+		{% if post.excerpt %}
+			{{ post.excerpt }}
+		{% endif %}
+	</div>
+	<div class="clear"></div>
+	<a class="post-read link-underlined" href="{{ post.url }}">
+		{% if post.lang == "fa" %}
+		مطالعه بیشتر
+		{% else %}
+		Read
+		{% endif %}
+	</a>
+</li>
