@@ -6,8 +6,8 @@ lang: en
 lang-ref: "We want to add Persian Language to OpenSourceFriday website"
 author: Max
 categories: github
-description: blablabla
-tags: jekyll blog github-page
+description: Happy new year with good news from me, We are adding Persian language in website.
+tags: github opensourcefriday persian translate
 ---
 
 Hello,

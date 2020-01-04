@@ -6,7 +6,9 @@ lang: fa
 lang-ref: "Open Source Friday - Persian Language"
 author: Max
 categories: github
-tags: jekyll blog github-page test
+description: خوشبختانه بعد از چند روز توانستیم زبان فارسی را نیز در وب سایت opensourcefriday.com با هماهنگی شرکت گیت هاب انجام دهیم.
+امیدواریم کمپین جمعه های منبع آزاد برای شما نیز مفید باشد.
+tags: github opensourcefriday persian translate
 ---
 
 با سلام.

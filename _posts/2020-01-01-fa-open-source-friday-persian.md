@@ -6,7 +6,8 @@ lang: fa
 lang-ref: "We want to add Persian Language to OpenSourceFriday website"
 author: Max
 categories: github
-tags: jekyll blog github-page test
+description: سال 2020 مبارک با خبری خوب از من, ما در حال اضافه کردن زبان فارسی به این وب سایت هستیم.
+tags: github opensourcefriday persian translate
 ---
 
 با سلام,

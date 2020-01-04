@@ -6,8 +6,8 @@ lang: en
 lang-ref: "Open Source Friday - Persian Language"
 author: Max
 categories: github
-description: blablabla
-tags: jekyll blog github-page test
+description: After days of effort in cooperation with GitHub, we successfully added Persian language in opensourcefriday.com Website.
+tags: github opensourcefriday persian translate
 ---
 
 Hello,
