@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Max Base - مکس بیس</title>
+	<link href="http://localhost:4000/atom.xml" rel="self"/>
+	<link href="http://localhost:4000/"/>
+	<updated>2020-01-04T07:23:25+03:30</updated>
+	<id>http://localhost:4000/</id>
+	<author>
+		<name>Max Base</name>
+		<email>smaxbasecode@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>جمعه منبع آزاد - زبان فارسی</title>
+		<link href="https://basemax.github.io/2020/01/02/github/fa-open-source-friday-persian/"/>
+		<updated>2020-01-02T00:00:00+03:30</updated>
+		<id>https://basemax.github.io/2020/01/02/github/fa-open-source-friday-persian</id>
+		<content type="html">&lt;p&gt;با سلام.&lt;/p&gt;
+
+&lt;p&gt;خوشبختانه بعد از چند روز توانستیم زبان فارسی را نیز در وب سایت &lt;a href=&quot;http://opensourcefriday.com&quot;&gt;opensourcefriday.com&lt;/a&gt; با هماهنگی شرکت گیت هاب انجام دهیم.
+امیدواریم کمپین جمعه های منبع آزاد برای شما نیز مفید باشد.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;h2 id=&quot;جمعه-منبع-آزاد&quot;&gt;جمعه منبع آزاد&lt;/h2&gt;
+
+&lt;p&gt;منبع آزاد توسط افرادی درست مثل شما ساخته می شود. این جمعه، چند ساعت برای کمک به نرم افزاری که استفاده می کنید و دوست دارید وقت بزارید.&lt;/p&gt;
+
+&lt;p&gt;این جمعه، چند ساعت برای کمک به نرم افزاری که استفاده می کنید و دوست دارید سرمایه گذاری کنید و آنرا توسعه دهید.&lt;/p&gt;
+
+&lt;p&gt;از حمایت &lt;strong&gt;Mike McQuaid&lt;/strong&gt; و &lt;strong&gt;Nat Friedman&lt;/strong&gt; بابت پذیرش این موضوع تشکر می کنم.&lt;/p&gt;
+
+&lt;p&gt;با تشکر&lt;/p&gt;
+
+&lt;p&gt;مکس بیس&lt;/p&gt;
+
+&lt;p&gt;نگهدارنده منبع آزاد گیت هاب&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;شما می توانید وب سایت فارسی را در &lt;a href=&quot;https://opensourcefriday.com/?locale=fa&quot;&gt;اینجا&lt;/a&gt; مشاهده کنید.&lt;/p&gt;
+
+&lt;h3 id=&quot;فایل-های-زبان&quot;&gt;فایل های زبان&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/opensourcefriday/blob/master/config/locales/fa.yml&quot;&gt;fa.yml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/opensourcefriday/blob/master/config/locales/devise.fa.yml&quot;&gt;devise.fa.yml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Open Source Friday - Persian Language</title>
+		<link href="https://basemax.github.io/2020/01/02/github/en-open-source-friday-persian/"/>
+		<updated>2020-01-02T00:00:00+03:30</updated>
+		<id>https://basemax.github.io/2020/01/02/github/en-open-source-friday-persian</id>
+		<content type="html">&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;After days of effort in cooperation with GitHub, we successfully added Persian language in opensourcefriday.com Website.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;open-source-friday&quot;&gt;Open Source Friday&lt;/h2&gt;
+
+&lt;p&gt;Open source is made by people just like you. This Friday, invest a few hours contributing to the software you use and love.&lt;/p&gt;
+
+&lt;p&gt;This Friday, invest a few hours contributing to the software you use and love.&lt;/p&gt;
+
+&lt;p&gt;We hope the open source Friday campaign to be useful for everyone.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;strong&gt;Mike McQuaid&lt;/strong&gt; and &lt;strong&gt;Nat Friedman&lt;/strong&gt; for supporting us.&lt;/p&gt;
+
+&lt;p&gt;Best,&lt;/p&gt;
+
+&lt;p&gt;Max Base&lt;/p&gt;
+
+&lt;p&gt;Open Source Maintainer on GitHub&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;You can see this at &lt;a href=&quot;https://opensourcefriday.com/?locale=fa&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;locale-files&quot;&gt;Locale Files&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/opensourcefriday/blob/master/config/locales/fa.yml&quot;&gt;fa.yml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/opensourcefriday/blob/master/config/locales/devise.fa.yml&quot;&gt;devise.fa.yml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>ما می خواهیم زبان فارسی را به وب سایت OpenSourceFriday اضافه کنیم</title>
+		<link href="https://basemax.github.io/2020/01/01/github/fa-open-source-friday-persian/"/>
+		<updated>2020-01-01T00:00:00+03:30</updated>
+		<id>https://basemax.github.io/2020/01/01/github/fa-open-source-friday-persian</id>
+		<content type="html">&lt;p&gt;با سلام,&lt;/p&gt;
+
+&lt;p&gt;سال 2020 مبارک با خبری خوب از من, ما در حال اضافه کردن زبان فارسی به این وب سایت هستیم.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;opensourcefriday&quot;&gt;OpenSourceFriday&lt;/h3&gt;
+
+&lt;p&gt;شما می توانید در مورد زبان فارسی در &lt;a href=&quot;https://en.wikipedia.org/wiki/Persian_language&quot;&gt;اینجا&lt;/a&gt; بخوانید.&lt;/p&gt;
+
+&lt;p&gt;با تشکر&lt;/p&gt;
+
+&lt;p&gt;مکس بیس&lt;/p&gt;
+
+&lt;p&gt;نگهدارنده منبع آزاد گیت هاب&lt;/p&gt;
+
+&lt;h3 id=&quot;منابع&quot;&gt;منابع&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/github/opensourcefriday/pull/571&quot;&gt;#571&lt;/a&gt;
+&lt;a href=&quot;https://github.com/github/opensourcefriday/pull/572&quot;&gt;#572&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>We want to add Persian Language to OpenSourceFriday website</title>
+		<link href="https://basemax.github.io/2020/01/01/github/en-open-source-friday-persian/"/>
+		<updated>2020-01-01T00:00:00+03:30</updated>
+		<id>https://basemax.github.io/2020/01/01/github/en-open-source-friday-persian</id>
+		<content type="html">&lt;p&gt;Hello,&lt;/p&gt;
+
+&lt;p&gt;Happy new year with good news from me, We are adding Persian language in website. smiley  heart&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;You can read about Persian (Farsi) Language at &lt;a href=&quot;https://en.wikipedia.org/wiki/Persian_language&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Best,&lt;/p&gt;
+
+&lt;p&gt;Max Base&lt;/p&gt;
+
+&lt;p&gt;Open Source Maintainer on GitHub&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/github/opensourcefriday/pull/571&quot;&gt;#571&lt;/a&gt;
+&lt;a href=&quot;https://github.com/github/opensourcefriday/pull/572&quot;&gt;#572&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+</feed>
