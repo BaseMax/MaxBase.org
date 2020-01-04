@@ -3,7 +3,7 @@ layout: post
 date: 2019-01-24
 lang: en
 author: Max
-categories: programming-language
+categories: my-programming-language
 description: Some programming language does not require explicit type definition in the variable declaration.
 tags: et etlang my-programming-language
 title: Type Casting in ET Programming Language

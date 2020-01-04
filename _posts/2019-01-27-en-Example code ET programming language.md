@@ -3,7 +3,7 @@ layout: post
 date: 2019-01-27
 lang: en
 author: Max
-categories: programming-language
+categories: my-programming-language
 description: A few examples of the proposed code in ET programming language
 tags: et etlang my-programming-language
 title: A few examples of the proposed code in ET programming language
