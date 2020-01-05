@@ -44,15 +44,21 @@ layout: default
 				</div>
 
 				<div class="post-single__meta">
-					<span class="post-single__date">
+					<span class="post-single-date">
 						{% if page.lang == "fa" %}
 						منتشر شده در
 						{% else %}
 						Published
 						{% endif %}
 						{{ page.date | date_to_string }}
+						<br>
+						{% if page.lang == "fa" %}
+						نویسنده: مکس بیس
+						{% else %}
+						Written by: Max Base
+						{% endif %}
 					</span>
-					<span class="post-single__comments">
+					<span class="post-single-comments">
 						<span class="ti-twitter-alt"></span>
 						<a class="link-underlined" href="https://mobile.twitter.com/search?q={{ site.url }}{{ post.url }}" target="_blank" rel="noopener noreferrer">
 							{% if page.lang == "fa" %}

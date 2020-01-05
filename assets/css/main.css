@@ -204,12 +204,12 @@ ul.tags li a {
 	line-height: 1.625;
 	padding: .5rem 1rem;
 }
-.post-single__date {
+.post-single-date {
     flex-grow: 1;
     font-style: italic;
     float: left;
 }
-.post-single__comments {
+.post-single-comments {
     flex-grow: 1;
     text-align: right;
     float: right;
