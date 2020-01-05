@@ -19,6 +19,8 @@ After days of effort in cooperation with GitHub, we successfully added Persian l
 
 Open source is made by people just like you. This Friday, invest a few hours contributing to the software you use and love.
 
+#### See Open Source Friday at [here](https://opensourcefriday.com/?locale=fa)
+
 This Friday, invest a few hours contributing to the software you use and love.
 
 We hope the open source Friday campaign to be useful for everyone.
