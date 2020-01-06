@@ -45,8 +45,8 @@ layout: default
 
 				<div class="post-single-meta">
 					<span class="post-single-date">
-						- {% if page.lang == "fa" %}
-						منتشر شده در
+						{% if page.lang == "fa" %}
+						- منتشر شده در
 						{% else %}
 						Published
 						{% endif %}
@@ -56,7 +56,7 @@ layout: default
 						{% if page.lang == "fa" %}
 						نویسنده: <span><a href="https://maxbase.org/">مکس بیس</span>
 						{% else %}
-						Written by: <span><a href="https://maxbase.org/">Max Base</span>
+						- Written by: <span><a href="https://maxbase.org/">Max Base</span>
 						{% endif %}
 					</span>
 					<span class="post-single-comments">
@@ -80,6 +80,36 @@ layout: default
 						</li>
 					{% endfor %}
 				</ul>
+
+				<div id="related">
+					{% if page.lang == "fa" %}
+					<h2>مطالب مرتبط</h2>
+					{% else %}
+					<h2>Related Posts</h2>
+					{% endif %}
+					<ul class="posts">
+						{% for post in site.related_posts limit:15 %}
+						{% include post-item.html %}
+						{% endfor %}
+					</ul>
+				</div>
+
+				{% for post in site.posts reversed %}
+					{% if post.lang == page.lang %}
+						{% if next %}
+							{% if page.lang == "fa" %}
+							<a href="{{ post.url }}">بعدی</a>
+							{% else %}
+							<a href="{{ post.url }}">Next</a>
+							{% endif %}
+							{% break %}
+						{% endif %}
+						{% assign next = false %}
+						{% if post.id == page.id %}
+							{% assign next = true %}
+						{% endif %}
+					{% endif %}
+				{% endfor %}
 			</div>
 		</main>
 		<ul class="tags fix-top-left">
