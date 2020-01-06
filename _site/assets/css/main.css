@@ -212,12 +212,7 @@ ul.tags li a {
 .post-single-date {
 	flex-grow: 1;
 	font-style: italic;
-}
-.float-rtl .post-single-author {
 	float: left;
-}
-.float-ltr .post-single-author {
-	float: right;
 }
 .post-single-author {
 	flex-grow: 1;
