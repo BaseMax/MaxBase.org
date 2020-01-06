@@ -44,22 +44,22 @@ layout: default
 				</div>
 
 				<div class="post-single-meta">
-					<span class="post-single-date">
+					<div class="post-single-date">
 						{% if page.lang == "fa" %}
 						- منتشر شده در
 						{% else %}
 						Published
 						{% endif %}
-						<span>{{ page.date | date_to_string }}</span>
-					</span>
-					<span class="post-single-author">
+						<label>{{ page.date | date_to_string }}</label>
+					</div>
+					<div class="post-single-author">
 						{% if page.lang == "fa" %}
-						نویسنده: <span><a href="https://maxbase.org/">مکس بیس</span>
+						نویسنده: <label><a href="https://maxbase.org/">مکس بیس</label>
 						{% else %}
-						- Written by: <span><a href="https://maxbase.org/">Max Base</span>
+						- Written by: <label><a href="https://maxbase.org/">Max Base</label>
 						{% endif %}
-					</span>
-					<span class="post-single-comments">
+					</div>
+					<div class="post-single-comments">
 						<span class="ti-twitter-alt"></span>
 						<a class="link-underlined" href="https://mobile.twitter.com/search?q={{ site.url }}{{ post.url }}" target="_blank" rel="noopener noreferrer">
 							{% if page.lang == "fa" %}
@@ -68,7 +68,7 @@ layout: default
 							Discuss this article on Twitter
 							{% endif %}
 						</a>
-					</span>
+					</div>
 				</div>
 
 				<div class="clear"></div>
@@ -87,7 +87,7 @@ layout: default
 							{% if page.lang == "fa" %}
 							<a href="{{ post.url }}">مشاهده مطلب بعدی</a>
 							{% else %}
-							<a href="{{ post.url }}">Next post</a>
+							<a href="{{ post.url }}">Read Next post</a>
 							{% endif %}
 							{% break %}
 						{% endif %}
@@ -100,9 +100,11 @@ layout: default
 
 			</div>
 
+			<br>
+
 			<div id="related">
 				{% if page.lang == "fa" %}
-				<h2>مطالب مرتبط</h2>
+				<h2 class="float-rtl">مطالب مرتبط</h2>
 				{% else %}
 				<h2>Related Posts</h2>
 				{% endif %}
@@ -112,6 +114,8 @@ layout: default
 					{% endfor %}
 				</ul>
 			</div>
+
+			<br><br>
 
 		</main>
 		<ul class="tags fix-top-left">
