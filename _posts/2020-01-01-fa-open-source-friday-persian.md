@@ -27,5 +27,5 @@ tags: github opensourcefriday persian translate
 
 ### منابع
 
-[#571](https://github.com/github/opensourcefriday/pull/571)
-[#572](https://github.com/github/opensourcefriday/pull/572)
+- [#571](https://github.com/github/opensourcefriday/pull/571)
+- [#572](https://github.com/github/opensourcefriday/pull/572)
