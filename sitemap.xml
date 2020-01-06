@@ -3,13 +3,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Max Base - مکس بیس</title>
-	<link href="{{ site.url }}/atom.xml" rel="self"/>
+	<link href="{{ site.url }}/sitemap.xml" rel="self"/>
 	<link href="{{ site.url }}/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>{{ site.url }}/</id>
 	<author>
 		<name>Max Base</name>
-		<email>smaxbasecode@gmail.com</email>
+		<email>maxbasecode@gmail.com</email>
 	</author>
 	{% for post in site.posts %}
 	<entry>
