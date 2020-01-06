@@ -264,6 +264,11 @@ ul.tags li a {
 	text-align: right;
 	display: inline-block;
 }
+.text-ltr {
+	direction: ltr;
+	text-align: left;
+	display: inline-block;
+}
 .float-rtl {
 	direction: rtl;
 	text-align: right;
