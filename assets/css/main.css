@@ -69,7 +69,7 @@ body {
 	font-size: 1rem;
 	font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
-ul.posts li h2 {
+ul.posts li h2.post-title-short {
 	font-size: 1rem;
 	font-weight: normal;
 	display: inline-block;
@@ -278,4 +278,8 @@ ul.tags li a {
 	direction: ltr;
 	text-align: left;
 	float: left;
+}
+.post-text ul {
+	padding-left: 40px;
+	padding-right: 40px;
 }
