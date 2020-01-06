@@ -43,7 +43,7 @@ layout: default
 					<br><br>
 				</div>
 
-				<div class="post-single__meta">
+				<div class="post-single-meta">
 					<span class="post-single-date">
 						{% if page.lang == "fa" %}
 						منتشر شده در
@@ -51,7 +51,8 @@ layout: default
 						Published
 						{% endif %}
 						{{ page.date | date_to_string }}
-						<br>
+					</span>
+					<span class="post-single-author">
 						{% if page.lang == "fa" %}
 						نویسنده: مکس بیس
 						{% else %}

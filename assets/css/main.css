@@ -205,14 +205,19 @@ ul.tags li a {
 	padding: .5rem 1rem;
 }
 .post-single-date {
-    flex-grow: 1;
-    font-style: italic;
-    float: left;
+	flex-grow: 1;
+	font-style: italic;
+	float: left;
+}
+.post-single-author {
+	flex-grow: 1;
+	font-style: italic;
+	float: left;
 }
 .post-single-comments {
-    flex-grow: 1;
-    text-align: right;
-    float: right;
+	flex-grow: 1;
+	text-align: right;
+	float: right;
 }
 .post-single-body ul, .post-single-body ol {
 	margin-left: 40px;
