@@ -76,6 +76,7 @@ layout: default
 				{% for post in site.posts reversed %}
 					{% if post.lang == page.lang %}
 						{% if next %}
+							<br>
 							{% if page.lang == "fa" %}
 							<a href="{{ post.url }}">مشاهده مطلب بعدی</a>
 							{% else %}
@@ -110,7 +111,7 @@ layout: default
 				{% else %}
 				<h2>Related Posts</h2>
 				{% endif %}
-				<ul class="posts">
+				<ul class="posts posts-main">
 					{% for post in site.related_posts limit:15 %}
 					{% include post-item-short.html %}
 					{% endfor %}
