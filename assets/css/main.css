@@ -212,12 +212,22 @@ ul.tags li a {
 .post-single-author {
 	flex-grow: 1;
 	font-style: italic;
+}
+.float-rtl .post-single-author {
 	float: left;
+}
+.float-ltr .post-single-author {
+	float: right;
 }
 .post-single-comments {
 	flex-grow: 1;
 	text-align: right;
+}
+.float-rtl .post-single-comments {
 	float: right;
+}
+.float-ltr .post-single-comments {
+	float: left;
 }
 .post-single-body ul, .post-single-body ol {
 	margin-left: 40px;

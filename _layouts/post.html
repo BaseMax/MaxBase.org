@@ -5,7 +5,7 @@ layout: default
 		{% if page.lang == "fa" %}
 		<div class="float-rtl">
 		{% else %}
-		<div>
+		<div class="float-ltr">
 		{% endif %}
 				<h1 class="post-single-title">{{ page.title }}</h1>
 
@@ -81,26 +81,13 @@ layout: default
 					{% endfor %}
 				</ul>
 
-				<div id="related">
-					{% if page.lang == "fa" %}
-					<h2>مطالب مرتبط</h2>
-					{% else %}
-					<h2>Related Posts</h2>
-					{% endif %}
-					<ul class="posts">
-						{% for post in site.related_posts limit:15 %}
-						{% include post-item-short.html %}
-						{% endfor %}
-					</ul>
-				</div>
-
 				{% for post in site.posts reversed %}
 					{% if post.lang == page.lang %}
 						{% if next %}
 							{% if page.lang == "fa" %}
-							<a href="{{ post.url }}">بعدی</a>
+							<a href="{{ post.url }}">مشاهده مطلب بعدی</a>
 							{% else %}
-							<a href="{{ post.url }}">Next</a>
+							<a href="{{ post.url }}">Next post</a>
 							{% endif %}
 							{% break %}
 						{% endif %}
@@ -110,7 +97,22 @@ layout: default
 						{% endif %}
 					{% endif %}
 				{% endfor %}
+
 			</div>
+
+			<div id="related">
+				{% if page.lang == "fa" %}
+				<h2>مطالب مرتبط</h2>
+				{% else %}
+				<h2>Related Posts</h2>
+				{% endif %}
+				<ul class="posts">
+					{% for post in site.related_posts limit:15 %}
+					{% include post-item-short.html %}
+					{% endfor %}
+				</ul>
+			</div>
+
 		</main>
 		<ul class="tags fix-top-left">
 			<li>
