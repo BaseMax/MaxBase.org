@@ -45,18 +45,18 @@ layout: default
 
 				<div class="post-single-meta">
 					<span class="post-single-date">
-						{% if page.lang == "fa" %}
+						- {% if page.lang == "fa" %}
 						منتشر شده در
 						{% else %}
 						Published
 						{% endif %}
-						{{ page.date | date_to_string }}
+						<span>{{ page.date | date_to_string }}</span>
 					</span>
 					<span class="post-single-author">
 						{% if page.lang == "fa" %}
-						نویسنده: مکس بیس
+						نویسنده: <span><a href="https://maxbase.org/">مکس بیس</span>
 						{% else %}
-						Written by: Max Base
+						Written by: <span><a href="https://maxbase.org/">Max Base</span>
 						{% endif %}
 					</span>
 					<span class="post-single-comments">
