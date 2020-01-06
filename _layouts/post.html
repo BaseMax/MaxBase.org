@@ -71,16 +71,6 @@ layout: default
 					</div>
 				</div>
 
-				<div class="clear"></div>
-
-				<ul class="tags">
-					{% for tag in page.tags %}
-						<li>
-							<a href="{{ site.url }}/tag/{{ tag }}">#{{ tag }}</a>
-						</li>
-					{% endfor %}
-				</ul>
-
 				{% for post in site.posts reversed %}
 					{% if post.lang == page.lang %}
 						{% if next %}
@@ -97,6 +87,16 @@ layout: default
 						{% endif %}
 					{% endif %}
 				{% endfor %}
+
+				<div class="clear"></div>
+
+				<ul class="tags">
+					{% for tag in page.tags %}
+						<li>
+							<a href="{{ site.url }}/tag/{{ tag }}">#{{ tag }}</a>
+						</li>
+					{% endfor %}
+				</ul>
 
 			</div>
 
