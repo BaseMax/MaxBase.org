@@ -269,3 +269,8 @@ ul.tags li a {
 	text-align: right;
 	float: right;
 }
+.float-ltr {
+	direction: ltr;
+	text-align: left;
+	float: left;
+}
