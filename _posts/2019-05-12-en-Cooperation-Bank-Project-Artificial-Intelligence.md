@@ -3,7 +3,7 @@ layout: post
 date: 2019-05-12
 lang: en
 author: Max
-categories: my-programming-language work
+categories: my-programming-language
 description: One of the acquaintances recently offered a proposal for collaboration in a project.
 tags: bank et etlang my-programming-language
 title: Cooperation in a Bank Project - Artificial Intelligence

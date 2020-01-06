@@ -209,25 +209,16 @@ ul.tags li a {
 	line-height: 1.625;
 	padding: .5rem 1rem;
 }
-.post-single-date {
+.post-single-date-author {
 	flex-grow: 1;
 	font-style: italic;
 }
-.float-rtl .post-single-author {
+.float-rtl .post-single-date-author {
 	float: left;
 }
-.float-ltr .post-single-author {
+.float-ltr .post-single-date-author {
 	float: right;
-}
-.post-single-author {
-	flex-grow: 1;
-	font-style: italic;
-}
-.float-rtl .post-single-author {
-	float: left;
-}
-.float-ltr .post-single-author {
-	float: right;
+	margin-left: 10px;
 }
 .post-single-comments {
 	flex-grow: 1;

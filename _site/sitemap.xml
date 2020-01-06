@@ -3,7 +3,7 @@
 	<title>Max Base - مکس بیس</title>
 	<link href="http://localhost:4000/sitemap.xml" rel="self"/>
 	<link href="http://localhost:4000/"/>
-	<updated>2020-01-06T23:42:46+03:30</updated>
+	<updated>2020-01-07T01:56:26+03:30</updated>
 	<id>http://localhost:4000/</id>
 	<author>
 		<name>Max Base</name>
@@ -12,9 +12,9 @@
 	
 	<entry>
 		<title>جمعه منبع آزاد - زبان فارسی</title>
-		<link href="https://maxbase.org/github/fa-open-source-friday-persian/"/>
+		<link href="https://maxbase.org/2020/01/02/github/fa-open-source-friday-persian/"/>
 		<updated>2020-01-02T00:00:00+03:30</updated>
-		<id>https://maxbase.org/github/fa-open-source-friday-persian</id>
+		<id>https://maxbase.org/2020/01/02/github/fa-open-source-friday-persian</id>
 		<content type="html">&lt;p&gt;با سلام.&lt;/p&gt;
 
 &lt;p&gt;خوشبختانه بعد از چند روز توانستیم زبان فارسی را نیز در وب سایت &lt;a href=&quot;http://opensourcefriday.com&quot;&gt;opensourcefriday.com&lt;/a&gt; با هماهنگی شرکت گیت هاب انجام دهیم.
@@ -50,9 +50,9 @@
 	
 	<entry>
 		<title>Open Source Friday - Persian Language</title>
-		<link href="https://maxbase.org/github/en-open-source-friday-persian/"/>
+		<link href="https://maxbase.org/2020/01/02/github/en-open-source-friday-persian/"/>
 		<updated>2020-01-02T00:00:00+03:30</updated>
-		<id>https://maxbase.org/github/en-open-source-friday-persian</id>
+		<id>https://maxbase.org/2020/01/02/github/en-open-source-friday-persian</id>
 		<content type="html">&lt;p&gt;Hello,&lt;/p&gt;
 
 &lt;p&gt;After days of effort in cooperation with GitHub, we successfully added Persian language in opensourcefriday.com Website.
@@ -91,9 +91,9 @@
 	
 	<entry>
 		<title>ما می خواهیم زبان فارسی را به وب سایت OpenSourceFriday اضافه کنیم</title>
-		<link href="https://maxbase.org/github/fa-open-source-friday-persian/"/>
+		<link href="https://maxbase.org/2020/01/01/github/fa-open-source-friday-persian/"/>
 		<updated>2020-01-01T00:00:00+03:30</updated>
-		<id>https://maxbase.org/github/fa-open-source-friday-persian</id>
+		<id>https://maxbase.org/2020/01/01/github/fa-open-source-friday-persian</id>
 		<content type="html">&lt;p&gt;با سلام,&lt;/p&gt;
 
 &lt;p&gt;سال 2020 مبارک با خبری خوب از من, ما در حال اضافه کردن زبان فارسی به این وب سایت هستیم.
@@ -120,9 +120,9 @@
 	
 	<entry>
 		<title>We want to add Persian Language to OpenSourceFriday website</title>
-		<link href="https://maxbase.org/github/en-open-source-friday-persian/"/>
+		<link href="https://maxbase.org/2020/01/01/github/en-open-source-friday-persian/"/>
 		<updated>2020-01-01T00:00:00+03:30</updated>
-		<id>https://maxbase.org/github/en-open-source-friday-persian</id>
+		<id>https://maxbase.org/2020/01/01/github/en-open-source-friday-persian</id>
 		<content type="html">&lt;p&gt;Hello,&lt;/p&gt;
 
 &lt;p&gt;Happy new year with good news from me, We are adding Persian language in website. smiley  heart&lt;/p&gt;
@@ -146,9 +146,9 @@
 	
 	<entry>
 		<title>Math is Nice!</title>
-		<link href="https://maxbase.org/math/en-Math-is-nice/"/>
+		<link href="https://maxbase.org/2019/07/03/math/en-Math-is-nice/"/>
 		<updated>2019-07-03T00:00:00+04:30</updated>
-		<id>https://maxbase.org/math/en-Math-is-nice</id>
+		<id>https://maxbase.org/2019/07/03/math/en-Math-is-nice</id>
 		<content type="html">&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;A B C D E F G H I J K L M N O P Q R S T U V W X Y Z&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;=&lt;/p&gt;
@@ -185,9 +185,9 @@
 	
 	<entry>
 		<title>What is the JPOPHP?</title>
-		<link href="https://maxbase.org/project/en-What-is-JPOPHP/"/>
+		<link href="https://maxbase.org/2019/06/10/project/en-What-is-JPOPHP/"/>
 		<updated>2019-06-10T00:00:00+04:30</updated>
-		<id>https://maxbase.org/project/en-What-is-JPOPHP</id>
+		<id>https://maxbase.org/2019/06/10/project/en-What-is-JPOPHP</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;JPOPHP&lt;/strong&gt; (JSON Parser Object PHP) is a library for parsing the data in JSON format.&lt;/p&gt;
 
 &lt;p&gt;Some things are interesting.
@@ -215,9 +215,9 @@ I also wrote several unit-tests for the end of the collaboration.&lt;/p&gt;
 	
 	<entry>
 		<title>Cooperation in a Bank Project - Artificial Intelligence</title>
-		<link href="https://maxbase.org/my-programming-language/work/en-Cooperation-Bank-Project-Artificial-Intelligence/"/>
+		<link href="https://maxbase.org/2019/05/12/my-programming-language/en-Cooperation-Bank-Project-Artificial-Intelligence/"/>
 		<updated>2019-05-12T00:00:00+04:30</updated>
-		<id>https://maxbase.org/my-programming-language/work/en-Cooperation-Bank-Project-Artificial-Intelligence</id>
+		<id>https://maxbase.org/2019/05/12/my-programming-language/en-Cooperation-Bank-Project-Artificial-Intelligence</id>
 		<content type="html">&lt;p&gt;One of the acquaintances recently offered a proposal for collaboration in a project.&lt;/p&gt;
 
 &lt;h3 id=&quot;dangerous-suggestion&quot;&gt;Dangerous suggestion&lt;/h3&gt;
@@ -238,9 +238,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>Release Ubuntu 19.04 (Disco Dingo)</title>
-		<link href="https://maxbase.org/technology/en-Ubuntu-19-04/"/>
+		<link href="https://maxbase.org/2019/05/02/technology/en-Ubuntu-19-04/"/>
 		<updated>2019-05-02T00:00:00+04:30</updated>
-		<id>https://maxbase.org/technology/en-Ubuntu-19-04</id>
+		<id>https://maxbase.org/2019/05/02/technology/en-Ubuntu-19-04</id>
 		<content type="html">&lt;p&gt;A new version:&lt;/p&gt;
 
 &lt;p&gt;http://releases.ubuntu.com/19.04/&lt;/p&gt;
@@ -249,9 +249,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>IBM Began Buying Red Hat</title>
-		<link href="https://maxbase.org/technology/en-IBM-Buying-Red-Hat/"/>
+		<link href="https://maxbase.org/2019/04/29/technology/en-IBM-Buying-Red-Hat/"/>
 		<updated>2019-04-29T00:00:00+04:30</updated>
-		<id>https://maxbase.org/technology/en-IBM-Buying-Red-Hat</id>
+		<id>https://maxbase.org/2019/04/29/technology/en-IBM-Buying-Red-Hat</id>
 		<content type="html">&lt;p&gt;IBM wants to get serious about cloud computing, IBM has been struggling in a competitive cloud market…&lt;/p&gt;
 
 &lt;p&gt;It changes everything about the cloud market…&lt;/p&gt;
@@ -268,18 +268,18 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>New research project at the Nvidia</title>
-		<link href="https://maxbase.org/en-New-research-project-at-the-Nvidia/"/>
+		<link href="https://maxbase.org/2019/04/06/en-New-research-project-at-the-Nvidia/"/>
 		<updated>2019-04-06T00:00:00+04:30</updated>
-		<id>https://maxbase.org/en-New research project at the Nvidia</id>
+		<id>https://maxbase.org/2019/04/06/en-New research project at the Nvidia</id>
 		<content type="html">&lt;p&gt;You can read more details about this research at &lt;a href=&quot;https://blogs.nvidia.com/blog/2019/03/18/gaugan-photorealistic-landscapes-nvidia-research/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>The programming experience with a powerful system on the 48-inch monitor.</title>
-		<link href="https://maxbase.org/programming/en-programming-48-inch-monitor/"/>
+		<link href="https://maxbase.org/2019/04/05/programming/en-programming-48-inch-monitor/"/>
 		<updated>2019-04-05T00:00:00+04:30</updated>
-		<id>https://maxbase.org/programming/en-programming-48-inch-monitor</id>
+		<id>https://maxbase.org/2019/04/05/programming/en-programming-48-inch-monitor</id>
 		<content type="html">&lt;p&gt;My workplace at one day:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://basemax.github.io/assets/image/programming-48-inch-monitor.jpg&quot; alt=&quot;Image&quot; /&gt;&lt;/p&gt;
@@ -288,9 +288,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>Move the blog to the new site and server</title>
-		<link href="https://maxbase.org/en-Move-the-blog-to-the-new-site-and-server/"/>
+		<link href="https://maxbase.org/2019/03/27/en-Move-the-blog-to-the-new-site-and-server/"/>
 		<updated>2019-03-27T00:00:00+04:30</updated>
-		<id>https://maxbase.org/en-Move the blog to the new site and server</id>
+		<id>https://maxbase.org/2019/03/27/en-Move the blog to the new site and server</id>
 		<content type="html">&lt;p&gt;We will move the blog to the new site and server.&lt;/p&gt;
 
 &lt;p&gt;We had so many servers they can use for it.&lt;/p&gt;
@@ -303,9 +303,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>End Of Life date for Python 2.7</title>
-		<link href="https://maxbase.org/programming/en-End-Life-Python-2.7/"/>
+		<link href="https://maxbase.org/2019/03/19/programming/en-End-Life-Python-2.7/"/>
 		<updated>2019-03-19T00:00:00+03:30</updated>
-		<id>https://maxbase.org/programming/en-End-Life-Python-2.7</id>
+		<id>https://maxbase.org/2019/03/19/programming/en-End-Life-Python-2.7</id>
 		<content type="html">&lt;p&gt;The End Of Life date (EOL, sunset date) for Python 2.7 has been moved five years into the future, to 2020.  This decision was made to clarify the status of Python 2.7 and relieve worries for those users who cannot yet migrate to Python 3.  See also PEP 466.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;There will be no Python 2.8.&lt;/strong&gt;&lt;/p&gt;
@@ -355,9 +355,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>Matrix Research</title>
-		<link href="https://maxbase.org/project/en-MatrixResearch/"/>
+		<link href="https://maxbase.org/2019/03/16/project/en-MatrixResearch/"/>
 		<updated>2019-03-16T00:00:00+03:30</updated>
-		<id>https://maxbase.org/project/en-MatrixResearch</id>
+		<id>https://maxbase.org/2019/03/16/project/en-MatrixResearch</id>
 		<content type="html">&lt;p&gt;Repository :
 &lt;a href=&quot;https://github.com/BaseMax/MatrixResearch&quot;&gt;https://github.com/BaseMax/MatrixResearch&lt;/a&gt;&lt;/p&gt;
 
@@ -366,9 +366,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>Attend the Linux User Group (LUG) in 2019-03</title>
-		<link href="https://maxbase.org/meeting/en-Attend-the-Linux-User-Group-LUG-in-2019-03/"/>
+		<link href="https://maxbase.org/2019/03/11/meeting/en-Attend-the-Linux-User-Group-LUG-in-2019-03/"/>
 		<updated>2019-03-11T00:00:00+03:30</updated>
-		<id>https://maxbase.org/meeting/en-Attend the Linux User Group LUG in 2019-03</id>
+		<id>https://maxbase.org/2019/03/11/meeting/en-Attend the Linux User Group LUG in 2019-03</id>
 		<content type="html">&lt;p&gt;It was an opportunity for me to be invited and i can be there.&lt;/p&gt;
 
 &lt;p&gt;It was a workshop for students in the field of computer science.&lt;/p&gt;
@@ -397,9 +397,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>How does the Windows 10 operating system calculator work?</title>
-		<link href="https://maxbase.org/programming/en-Windows10-Calculator/"/>
+		<link href="https://maxbase.org/2019/03/03/programming/en-Windows10-Calculator/"/>
 		<updated>2019-03-03T00:00:00+03:30</updated>
-		<id>https://maxbase.org/programming/en-Windows10-Calculator</id>
+		<id>https://maxbase.org/2019/03/03/programming/en-Windows10-Calculator</id>
 		<content type="html">&lt;p&gt;Have you ever been curious to know how look like the source code of Microsoft’s software?&lt;/p&gt;
 
 &lt;p&gt;How does the Windows 10 operating system calculator work?&lt;/p&gt;
@@ -416,9 +416,9 @@ I don’t know where is that!&lt;/p&gt;
 	
 	<entry>
 		<title>Speech at a seminar and conference about Rust Programming language</title>
-		<link href="https://maxbase.org/conference/en-Speech-at-a-seminar-and-conference-about-Rust-Programming-language/"/>
+		<link href="https://maxbase.org/2019/02/25/conference/en-Speech-at-a-seminar-and-conference-about-Rust-Programming-language/"/>
 		<updated>2019-02-25T00:00:00+03:30</updated>
-		<id>https://maxbase.org/conference/en-Speech at a seminar and conference about Rust Programming language</id>
+		<id>https://maxbase.org/2019/02/25/conference/en-Speech at a seminar and conference about Rust Programming language</id>
 		<content type="html">&lt;p&gt;On December 4, 2018, they notified me.
 And I was invited to attend a conference in the future.&lt;/p&gt;
 
@@ -488,9 +488,9 @@ I hope that we will have an opportunity again to work together.&lt;/p&gt;
 	
 	<entry>
 		<title>Attend the Linux User Group (LUG) in 2019-02</title>
-		<link href="https://maxbase.org/meeting/en-Attend-the-Linux-User-Group-LUG-in-2019-02/"/>
+		<link href="https://maxbase.org/2019/02/23/meeting/en-Attend-the-Linux-User-Group-LUG-in-2019-02/"/>
 		<updated>2019-02-23T00:00:00+03:30</updated>
-		<id>https://maxbase.org/meeting/en-Attend the Linux User Group LUG in 2019-02</id>
+		<id>https://maxbase.org/2019/02/23/meeting/en-Attend the Linux User Group LUG in 2019-02</id>
 		<content type="html">&lt;p&gt;It was an opportunity for me to be invited and i can be there.&lt;/p&gt;
 
 &lt;p&gt;It was a workshop for students in the field of computer science.&lt;/p&gt;
@@ -644,9 +644,9 @@ This does not mean that all the conversations are the following links.&lt;/p&gt;
 	
 	<entry>
 		<title>Implementing a Web site with specific technologies</title>
-		<link href="https://maxbase.org/github/en-Implementing-a-Web-site-with-specific-technologies/"/>
+		<link href="https://maxbase.org/2019/02/22/github/en-Implementing-a-Web-site-with-specific-technologies/"/>
 		<updated>2019-02-22T00:00:00+03:30</updated>
-		<id>https://maxbase.org/github/en-Implementing a Web site with specific technologies</id>
+		<id>https://maxbase.org/2019/02/22/github/en-Implementing a Web site with specific technologies</id>
 		<content type="html">&lt;p&gt;A useful challenge to rebuild the book’s search system.&lt;/p&gt;
 
 &lt;h3 id=&quot;implementing-technologies-to-complete-the-project&quot;&gt;Implementing technologies to complete the project&lt;/h3&gt;
@@ -682,9 +682,9 @@ Date: Fri, 22 Feb 2019 15:16:27 GMT
 	
 	<entry>
 		<title>Ancient ideas and thoughts of the ET Programming Language</title>
-		<link href="https://maxbase.org/my-programming-language/en-Ancient-ideas-and-thoughts-of-the-ET-programming-language/"/>
+		<link href="https://maxbase.org/2019/02/21/my-programming-language/en-Ancient-ideas-and-thoughts-of-the-ET-programming-language/"/>
 		<updated>2019-02-21T00:00:00+03:30</updated>
-		<id>https://maxbase.org/my-programming-language/en-Ancient ideas and thoughts of the ET programming language</id>
+		<id>https://maxbase.org/2019/02/21/my-programming-language/en-Ancient ideas and thoughts of the ET programming language</id>
 		<content type="html">&lt;p&gt;Here I want to tell from the past.
 It’s about a some of years ago.&lt;/p&gt;
 
@@ -763,9 +763,9 @@ It’s about a some of years ago.&lt;/p&gt;
 	
 	<entry>
 		<title>Beginning of BSD can have an impact on the development of ET language?</title>
-		<link href="https://maxbase.org/my-programming-language/en-BSD-can-development-ET-language/"/>
+		<link href="https://maxbase.org/2019/02/20/my-programming-language/en-BSD-can-development-ET-language/"/>
 		<updated>2019-02-20T00:00:00+03:30</updated>
-		<id>https://maxbase.org/my-programming-language/en-BSD can development ET language</id>
+		<id>https://maxbase.org/2019/02/20/my-programming-language/en-BSD can development ET language</id>
 		<content type="html">&lt;p&gt;Less than a month, we have a special look at Unix.&lt;/p&gt;
 
 &lt;p&gt;It may be more important to develop in this environment.
@@ -790,9 +790,9 @@ And in commercial use it is still among the most popular and widely used items.&
 	
 	<entry>
 		<title>ET Operator Precedence</title>
-		<link href="https://maxbase.org/my-programming-language/en-ET-Operator-Precedence/"/>
+		<link href="https://maxbase.org/2019/02/08/my-programming-language/en-ET-Operator-Precedence/"/>
 		<updated>2019-02-08T00:00:00+03:30</updated>
-		<id>https://maxbase.org/my-programming-language/en-ET Operator Precedence</id>
+		<id>https://maxbase.org/2019/02/08/my-programming-language/en-ET Operator Precedence</id>
 		<content type="html">&lt;p&gt;The following table lists the precedence and associativity of &lt;strong&gt;ET&lt;/strong&gt; operators.&lt;/p&gt;
 
 &lt;p&gt;Operators are listed top to bottom, in descending precedence.&lt;/p&gt;
@@ -880,9 +880,9 @@ And in commercial use it is still among the most popular and widely used items.&
 	
 	<entry>
 		<title>Some University professors</title>
-		<link href="https://maxbase.org/university/en-Some-University-Professors/"/>
+		<link href="https://maxbase.org/2019/02/07/university/en-Some-University-Professors/"/>
 		<updated>2019-02-07T00:00:00+03:30</updated>
-		<id>https://maxbase.org/university/en-Some University Professors</id>
+		<id>https://maxbase.org/2019/02/07/university/en-Some University Professors</id>
 		<content type="html">&lt;p&gt;In any case, this can be generalized to humans.&lt;/p&gt;
 
 &lt;h3 id=&quot;consult-and-speak&quot;&gt;Consult and Speak&lt;/h3&gt;
@@ -950,9 +950,9 @@ Whatever he is thinking of himself.&lt;/p&gt;
 	
 	<entry>
 		<title>Part3 Answer about making the picture more natural.</title>
-		<link href="https://maxbase.org/challenge/en-Part3-Answer-Make-the-picture-more-natural/"/>
+		<link href="https://maxbase.org/2019/02/04/challenge/en-Part3-Answer-Make-the-picture-more-natural/"/>
 		<updated>2019-02-04T00:00:00+03:30</updated>
-		<id>https://maxbase.org/challenge/en-Part3-Answer-Make-the-picture-more-natural</id>
+		<id>https://maxbase.org/2019/02/04/challenge/en-Part3-Answer-Make-the-picture-more-natural</id>
 		<content type="html">&lt;p&gt;Please not see the answer before think.&lt;/p&gt;
 
 &lt;p&gt;You should try and thinking to solve the questions.&lt;/p&gt;
@@ -990,9 +990,9 @@ But it can be interesting for many people.&lt;/p&gt;
 	
 	<entry>
 		<title>Part3 Questions about making the picture more natural.</title>
-		<link href="https://maxbase.org/challenge/en-Part3-Question-Make-the-picture-more-natural/"/>
+		<link href="https://maxbase.org/2019/02/02/challenge/en-Part3-Question-Make-the-picture-more-natural/"/>
 		<updated>2019-02-02T00:00:00+03:30</updated>
-		<id>https://maxbase.org/challenge/en-Part3 Question Make the picture more natural</id>
+		<id>https://maxbase.org/2019/02/02/challenge/en-Part3 Question Make the picture more natural</id>
 		<content type="html">&lt;p&gt;Although this is a simple question and easy…
 But it can be interesting for many people.&lt;/p&gt;
 
@@ -1176,9 +1176,9 @@ Just draining out the red&lt;/p&gt;
 	
 	<entry>
 		<title>Part2 Questions about making the picture more natural.</title>
-		<link href="https://maxbase.org/challenge/en-Part2-Question-Make-the-picture-more-natural/"/>
+		<link href="https://maxbase.org/2019/01/31/challenge/en-Part2-Question-Make-the-picture-more-natural/"/>
 		<updated>2019-01-31T00:00:00+03:30</updated>
-		<id>https://maxbase.org/challenge/en-Part2 Question Make the picture more natural</id>
+		<id>https://maxbase.org/2019/01/31/challenge/en-Part2 Question Make the picture more natural</id>
 		<content type="html">&lt;p&gt;Although this is a simple question and easy…
 But it can be interesting for many people.&lt;/p&gt;
 
@@ -1258,9 +1258,9 @@ golden gate bridge, shown in red&lt;/p&gt;
 	
 	<entry>
 		<title>Part2 Answer about making the picture more natural.</title>
-		<link href="https://maxbase.org/challenge/en-Part2-Answer-Make-the-picture-more-natural/"/>
+		<link href="https://maxbase.org/2019/01/31/challenge/en-Part2-Answer-Make-the-picture-more-natural/"/>
 		<updated>2019-01-31T00:00:00+03:30</updated>
-		<id>https://maxbase.org/challenge/en-Part2 Answer Make the picture more natural</id>
+		<id>https://maxbase.org/2019/01/31/challenge/en-Part2 Answer Make the picture more natural</id>
 		<content type="html">&lt;p&gt;Please not see the answer before think.&lt;/p&gt;
 
 &lt;p&gt;You should try and thinking to solve the questions.&lt;/p&gt;
@@ -1310,9 +1310,9 @@ pixel.setBlue(avg);
 	
 	<entry>
 		<title>Part1 Questions about making the picture more natural.</title>
-		<link href="https://maxbase.org/challenge/en-Part1-Question-Make-the-picture-more-natural/"/>
+		<link href="https://maxbase.org/2019/01/31/challenge/en-Part1-Question-Make-the-picture-more-natural/"/>
 		<updated>2019-01-31T00:00:00+03:30</updated>
-		<id>https://maxbase.org/challenge/en-Part1 Question Make the picture more natural</id>
+		<id>https://maxbase.org/2019/01/31/challenge/en-Part1 Question Make the picture more natural</id>
 		<content type="html">&lt;p&gt;Although this is a simple question and easy…
 But it can be interesting for many people.&lt;/p&gt;
 
@@ -1436,9 +1436,9 @@ And how it looks.&lt;/p&gt;
 	
 	<entry>
 		<title>Part1 Answer about making the picture more natural.</title>
-		<link href="https://maxbase.org/challenge/en-Part1-Answer-Make-the-picture-more-natural/"/>
+		<link href="https://maxbase.org/2019/01/31/challenge/en-Part1-Answer-Make-the-picture-more-natural/"/>
 		<updated>2019-01-31T00:00:00+03:30</updated>
-		<id>https://maxbase.org/challenge/en-Part1 Answer Make the picture more natural</id>
+		<id>https://maxbase.org/2019/01/31/challenge/en-Part1 Answer Make the picture more natural</id>
 		<content type="html">&lt;p&gt;Please not see the answer before think.&lt;/p&gt;
 
 &lt;p&gt;You should try and thinking to solve the questions.&lt;/p&gt;
@@ -1525,9 +1525,9 @@ But it can be interesting for many people.&lt;/p&gt;
 	
 	<entry>
 		<title>A few examples of the proposed code in ET programming language</title>
-		<link href="https://maxbase.org/my-programming-language/en-Example-code-ET-programming-language/"/>
+		<link href="https://maxbase.org/2019/01/27/my-programming-language/en-Example-code-ET-programming-language/"/>
 		<updated>2019-01-27T00:00:00+03:30</updated>
-		<id>https://maxbase.org/my-programming-language/en-Example code ET programming language</id>
+		<id>https://maxbase.org/2019/01/27/my-programming-language/en-Example code ET programming language</id>
 		<content type="html">&lt;p&gt;See the code below:&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;int main()
@@ -1585,9 +1585,9 @@ But it can be interesting for many people.&lt;/p&gt;
 	
 	<entry>
 		<title>Type Casting in ET Programming Language</title>
-		<link href="https://maxbase.org/my-programming-language/en-Type-Casting.In-ET/"/>
+		<link href="https://maxbase.org/2019/01/24/my-programming-language/en-Type-Casting.In-ET/"/>
 		<updated>2019-01-24T00:00:00+03:30</updated>
-		<id>https://maxbase.org/my-programming-language/en-Type Casting.In ET</id>
+		<id>https://maxbase.org/2019/01/24/my-programming-language/en-Type Casting.In ET</id>
 		<content type="html">&lt;p&gt;Some programming language does not require explicit type definition in the variable declaration.&lt;/p&gt;
 
 &lt;p&gt;That is to say, if an integer value is assigned to the variable $value, $value becomes an integer.
@@ -1627,9 +1627,9 @@ Because each person makes a claim to a good one for reasons of the benefits.&lt;
 	
 	<entry>
 		<title>Will I go to the Google Co?</title>
-		<link href="https://maxbase.org/job/en-Will-I-go-Google/"/>
+		<link href="https://maxbase.org/2019/01/23/job/en-Will-I-go-Google/"/>
 		<updated>2019-01-23T00:00:00+03:30</updated>
-		<id>https://maxbase.org/job/en-Will-I-go-Google</id>
+		<id>https://maxbase.org/2019/01/23/job/en-Will-I-go-Google</id>
 		<content type="html">&lt;p&gt;But this decision is not so simple.
 If I go … What are the current projects?&lt;/p&gt;
 
@@ -1681,9 +1681,9 @@ myself, friends, other persons.&lt;/p&gt;
 	
 	<entry>
 		<title>What is the LMPHP?</title>
-		<link href="https://maxbase.org/project/en-What-is-the-LMPHP/"/>
+		<link href="https://maxbase.org/2019/01/22/project/en-What-is-the-LMPHP/"/>
 		<updated>2019-01-22T00:00:00+03:30</updated>
-		<id>https://maxbase.org/project/en-What is the LMPHP</id>
+		<id>https://maxbase.org/2019/01/22/project/en-What is the LMPHP</id>
 		<content type="html">&lt;p&gt;&lt;strong&gt;LMPHP&lt;/strong&gt; is a library for multi-language support in the PHP-based application backends.&lt;/p&gt;
 
 &lt;p&gt;Some things are interesting.
@@ -1708,9 +1708,9 @@ I also wrote several unit-tests for the end of the collaboration.&lt;/p&gt;
 	
 	<entry>
 		<title>What news from of the ET System Programming Language?</title>
-		<link href="https://maxbase.org/my-programming-language/en-News-ET-system-programming-language/"/>
+		<link href="https://maxbase.org/2019/01/22/my-programming-language/en-News-ET-system-programming-language/"/>
 		<updated>2019-01-22T00:00:00+03:30</updated>
-		<id>https://maxbase.org/my-programming-language/en-News ET system programming language</id>
+		<id>https://maxbase.org/2019/01/22/my-programming-language/en-News ET system programming language</id>
 		<content type="html">&lt;p&gt;We are still working to improve this project.&lt;/p&gt;
 
 &lt;p&gt;Keep in mind that this works with all the love and no hurry done.&lt;/p&gt;
@@ -1730,9 +1730,9 @@ I also wrote several unit-tests for the end of the collaboration.&lt;/p&gt;
 	
 	<entry>
 		<title>Hello World</title>
-		<link href="https://maxbase.org/en-Hello/"/>
+		<link href="https://maxbase.org/2012/04/20/en-Hello/"/>
 		<updated>2012-04-20T00:00:00+04:30</updated>
-		<id>https://maxbase.org/en-Hello</id>
+		<id>https://maxbase.org/2012/04/20/en-Hello</id>
 		<content type="html">&lt;p&gt;Hello World, Especially programmers and computer specialists.&lt;/p&gt;
 
 &lt;p&gt;This is my first post on this blog.&lt;/p&gt;

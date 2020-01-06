@@ -1,9 +1,9 @@
 ---
 layout: index
-title: page.title
+title: page.title + " - Max Base"
 ---
 <h2>Category index '<span>{{page.title}}</span>'</h2>
-	<ul class="posts" style="margin-left: 25px;margin-top: 15px;">
+	<ul class="posts posts-main">
 		{% for post in page.posts %}
 		{% include post-item-short.html %}
 		{% endfor %}

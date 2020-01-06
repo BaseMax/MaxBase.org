@@ -2,14 +2,18 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
 	<head>
 		<!--[if lt IE 9]><script language="javascript" type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 		<title>{{ page.title }}</title>
 		<!-- {{ site.baseurl }} -->
 		<!-- {{ site.url }} -->
 		<!-- {{ page.url }} -->
+		{% if page.external_url %}
+		<link rel="canonical" href="{{ page.external_url }}">
+		{% else %}
 		<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+		{% endif %}
 		<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
 		<link rel="stylesheet" href="{{ site.url }}/assets/css/icon.css">
 		<!--[if lt IE 8]><!-->

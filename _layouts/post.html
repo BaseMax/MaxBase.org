@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /:categories/:year/:month/:day/:title:output_ext
+lang: en
 ---
 <main>
 		{% if page.lang == "fa" %}
@@ -44,19 +46,20 @@ layout: default
 				</div>
 
 				<div class="post-single-meta">
-					<div class="post-single-date">
+					<div class="post-single-date-author">
 						{% if page.lang == "fa" %}
-						- منتشر شده در
+						منتشر شده در
 						{% else %}
 						Published
 						{% endif %}
 						<label>{{ page.date | date_to_string }}</label>
-					</div>
-					<div class="post-single-author">
+						&nbsp;
+						-
+						&nbsp;
 						{% if page.lang == "fa" %}
 						نویسنده: <label><a href="https://maxbase.org/">مکس بیس</label>
 						{% else %}
-						- Written by: <label><a href="https://maxbase.org/">Max Base</label>
+						Written by: <label><a href="https://maxbase.org/">Max Base</label>
 						{% endif %}
 					</div>
 					<div class="post-single-comments">
@@ -96,7 +99,8 @@ layout: default
 				<ul class="tags">
 					{% for tag in page.tags %}
 						<li>
-							<a href="{{ site.url }}/tag/{{ tag }}">#{{ tag }}</a>
+							<!-- <a href="{{ site.url }}/tag/{{ tag }}">#{{ tag }}</a> -->
+							<a>#{{ tag }}</a>
 						</li>
 					{% endfor %}
 				</ul>

@@ -8,8 +8,13 @@ layout: default
 						<img src="{{ site.url }}/assets/image/avatar.jpg" width="75" height="75" alt="Max Base">
 					</a>
 					<div class="sidebar-author-content">
+						{% if page.lang == "fa" %}
+						<h1 class="sidebar-author-title">سلام, من مکس بیس هستم 👋</h1>
+						<p class="sidebar-author-subtitle">توسعه دهنده زبان برنامه نویسی, و برنامه نویس فول استک</p>
+						{% else %}
 						<h1 class="sidebar-author-title">Hi, I'm Max Base 👋</h1>
 						<p class="sidebar-author-subtitle">Programming language developer, Full-stack programmer</p>
+						{% endif %}
 					</div>
 				</div>
 

@@ -2,17 +2,17 @@
 lang: en
 url: https://maxbase.org
 languages: ["en", "fa"]
-permalink: /:categories/:title/
+permalink: /:year/:month/:day/:categories/:title/
 #paginate: 2 # <- turn on pagination with two posts per page
 plugins:
-  - jekyll/tagging
-  - octopress-minify-html
-  - jekyll-category-pages
-  - jemoji
-  - jekyll-gist
+  # - octopress-minify-html
+  # - jekyll/tagging
+  # - jekyll-category-pages
+  # - jemoji
+  # - jekyll-gist
 #  - jekyll-paginate
-tag_page_layout: tag
-tag_page_dir: tag
+# tag_page_layout: tag
+# tag_page_dir: tag
 #paginate_path: "/articles/:num/"
 excerpt_separator: <!--more-->
 # env: production
@@ -27,10 +27,10 @@ excerpt_separator: <!--more-->
 #     profile: false
 #     startings: []
 
-collections:
-  tags:
-    output: true
-    permalink: /tag/:name/ # optional
-  categories:
-    output: true
-    permalink: /category/:name/ # optional
+# collections:
+#   tags:
+#     output: true
+#     permalink: /tag/:name/ # optional
+#   categories:
+#     output: true
+#     permalink: /:name/ # optional

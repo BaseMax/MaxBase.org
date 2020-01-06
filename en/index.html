@@ -1,12 +1,13 @@
 ---
+lang: en
 layout: index
 title: Max Base
-lang: en
 ---
+<link rel="alternate" hreflang="fa" href="{{ site.url }}/fa" />
 <ul class="posts">
 		{% assign posts=site.posts | where:"lang", page.lang %}
 		{% for post in posts %}
 		{% include post-item.html %}
 		{% endfor %}
 		</ul>
-	<br><br>
+		<br><br>

@@ -1,5 +1,5 @@
 <li>
-	<span><time datetime="{{ post.date | date: "%B %-d, %Y" }}">{{ post.date | date_to_string }}</time></span> &raquo;
+	<span>Max Base » <time datetime="{{ post.date | date: "%B %-d, %Y" }}">{{ post.date | date_to_string }}</time></span> &raquo;
 	{% if post.lang == "fa" %}
 	<div class="text-rtl">
 	{% else %}

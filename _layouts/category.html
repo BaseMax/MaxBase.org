@@ -1,0 +1,15 @@
+---
+layout: index
+title: page.title + " - Max Base"
+---
+<h2>New Category index '<span>{{page.category_name | capitalize}}</span>'</h2>
+
+<ul class="posts posts-main">
+		{{ site.categories[page.category_name] }}
+		{% for post in site.categories[page.category_name] %}
+		{% include post-item-short.html %}
+		{% endfor %}
+		</ul>
+<!-- <br><br> -->
+
+{{ content }}
