@@ -107,9 +107,9 @@ layout: default
 
 			<div id="related">
 				{% if page.lang == "fa" %}
-				<h2 class="float-rtl">مطالب مرتبط</h2>
+				<h5 class="float-rtl">مطالب مرتبط</h5>
 				{% else %}
-				<h2>Related Posts</h2>
+				<h5>Related Posts</h5>
 				{% endif %}
 				<ul class="posts posts-main">
 					{% for post in site.related_posts limit:15 %}
