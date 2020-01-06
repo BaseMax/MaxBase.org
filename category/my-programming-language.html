@@ -1,0 +1,11 @@
+---
+layout: index
+title: "My Programming Language - Max Base"
+---
+
+<h2>My Programming Language Posts</h2>
+<ul class="posts posts-main">
+		{% for post in site.categories["my-programming-language"] %}
+		{% include post-item-short.html %}
+		{% endfor %}
+		</ul>

@@ -1,10 +1,1 @@
----
-layout: index
-title: page.title + " - Max Base"
----
-<h2>Category index '<span>{{page.title}}</span>'</h2>
-	<ul class="posts posts-main">
-		{% for post in page.posts %}
-		{% include post-item-short.html %}
-		{% endfor %}
-		</ul>
+{{content}}
