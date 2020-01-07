@@ -10,7 +10,7 @@ title: "Categories - Max Base"
 			{% capture category_name %}{{ category | first }}{% endcapture %}
 			<div id="#{{ category_name | slugize }}">
 				<br>
-				<a href="http://localhost:4000/category/#{{ category_name | slugize }}" name="{{ category_name | slugize }}">
+				<a href="{{ site.url}}/category/{{ category_name | slugize }}/" name="{{ category_name | slugize }}">
 					<h3 class="category-head">{{ category_name }}</h3>
 				</a>
 				<ul class="posts posts-main">
