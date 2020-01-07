@@ -1,0 +1,25 @@
+---
+layout: index
+title: Projects - Max Base
+---
+
+<h1>Max Base Projects</h1>
+
+<br>
+<h2>My GitHub Repository <a href="https://github.com/BaseMax?tab=repositories">[see more]</a></h2>
+
+<ul class="posts posts-main">
+	{% for item in site.data.repositories.repositories %}
+	<li>
+		<span>Max Base » 
+		{{ item }}
+		<!-- <time datetime="{{ item.date | date: "%B %-d, %Y" }}">{{ item.date | date_to_string }}</time></span> &raquo; -->
+		<!-- <div class="text-ltr"> -->
+			<!-- <h2 class="post-title-short"> -->
+				<!-- <a href="{{ item.url }}">{{ item.title }}</a> -->
+			<!-- </h2> -->
+		<!-- </div> -->
+		<!--  »  -->
+	</li>
+	{% endfor %}
+</ul>
