@@ -282,7 +282,7 @@ ul.tags li a {
 	.sidebar {
 		width: 100%;
 	}
-	content {
+	content, main {
 		padding-left: 5%;
 		width: 90%;
 		margin-right: 5%;
