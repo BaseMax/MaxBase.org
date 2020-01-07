@@ -287,4 +287,10 @@ ul.tags li a {
 		width: 90%;
 		margin-right: 5%;
 	}
+	.fix-top-left {
+		bottom: 15px;
+		left: 15px;
+		top: auto;
+		margin-bottom: 0px;
+	}
 }
