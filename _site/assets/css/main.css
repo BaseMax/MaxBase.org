@@ -12,7 +12,6 @@ content {
 	margin-top: 35px;
 	border-left: 1px solid #e1e1e1;
 	padding-left: 3%;
-	/*width: 68%;*/
 	width: 63%;
 	margin-right: 5%;
 	min-height: 450px;
@@ -278,4 +277,20 @@ ul.tags li a {
 .post-text ul {
 	padding-left: 40px;
 	padding-right: 40px;
+}
+@media screen and (max-width: 980px) {
+	.sidebar {
+		width: 100%;
+	}
+	content, main {
+		padding-left: 5%;
+		width: 90%;
+		margin-right: 5%;
+	}
+	.fix-top-left {
+		bottom: 15px;
+		left: 15px;
+		top: auto;
+		margin-bottom: 0px;
+	}
 }

@@ -12,14 +12,12 @@ title: Projects - Max Base
 	{% for item in site.data.repositories.repositories %}
 	<li>
 		<span>Max Base » 
-		{{ item }}
 		<!-- <time datetime="{{ item.date | date: "%B %-d, %Y" }}">{{ item.date | date_to_string }}</time></span> &raquo; -->
-		<!-- <div class="text-ltr"> -->
-			<!-- <h2 class="post-title-short"> -->
-				<!-- <a href="{{ item.url }}">{{ item.title }}</a> -->
-			<!-- </h2> -->
-		<!-- </div> -->
-		<!--  »  -->
+		<div class="text-ltr">
+			<h2 class="post-title-short">
+				<a href="{{ item.url }}">{{ item.name }} » {{ item.description }}</a>
+			</h2>
+		</div>
 	</li>
 	{% endfor %}
 </ul>
