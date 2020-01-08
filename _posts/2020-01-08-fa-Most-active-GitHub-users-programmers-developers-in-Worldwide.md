@@ -34,6 +34,8 @@ A list of the most active GitHub users
 - 7 نفر از برترین برنامه نویسان عضو شرکت گیت هاب هستند.
 - ...
 
+<!--more-->
+
 <table class="users-list">
             <tbody><tr>
               <th>Rank</th>
