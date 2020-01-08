@@ -1,0 +1,48 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Max Base - مکس بیس</title>
+	<link href="{{ site.url }}/sitemap.xml" rel="self"/>
+	<link href="{{ site.url }}/"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>{{ site.url }}/</id>
+	<author>
+		<name>Max Base</name>
+		<email>maxbasecode@gmail.com</email>
+	</author>
+	{% for post in site.posts %}
+	<entry>
+		<title>{{ post.title }}</title>
+		<link href="{{ site.url }}{{ post.url }}"/>
+		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		<id>{{ site.url }}{{ post.id }}</id>
+		<content type="html">{{ post.content | xml_escape }}</content>
+	</entry>
+	{% endfor %}
+	{% for category in site.categories %}
+	{% capture category_name %}{{ category | first }}{% endcapture %}
+	<entry>
+		<title>{{ category_name }}</title>
+		<link href="{{ site.url }}/category/{{ category_name }}"/>
+		<updated>{% for post in site.categories[category_name] limit:1 %}{{post.date}}{% endfor %}</updated>
+		<id>{{ site.url }}/category/{{ category_name }}</id>
+		<content type="html">
+		{% for post in site.categories[category_name] %}
+		<li>
+		<h4><a href="{{ site.url }}{{ post.url }}">{{post.title}}</a></h4>
+		</li>
+		{% endfor %}
+		</content>
+	</entry>
+	{% endfor %}
+	{% for post in site.posts %}
+	<entry>
+		<title>{{ post.title }}</title>
+		<link href="{{ site.url }}{{ post.url }}"/>
+		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		<id>{{ site.url }}{{ post.id }}</id>
+		<content type="html">{{ post.content | xml_escape }}</content>
+	</entry>
+	{% endfor %}
+</feed>
