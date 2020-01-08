@@ -1,0 +1,14 @@
+---
+layout: compress
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% for category in site.categories %}
+	{% capture category_name %}{{ category | first }}{% endcapture %}
+	<url>
+		<loc>{{ site.url }}/category/{{ category_name }}/</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	{% endfor %}
+</urlset>
