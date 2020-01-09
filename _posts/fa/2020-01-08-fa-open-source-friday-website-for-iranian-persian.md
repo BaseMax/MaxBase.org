@@ -2,7 +2,7 @@
 layout: post
 title: کمپین جمعه منبع باز و اپن سورس برای ایرانیان با زبان فارسی
 date: 2020-01-08
-permalink: /github/best-programmer-and-user-open-source-in-GitHub/fa/
+permalink: /github/open-source-friday-website-for-iranian-persian/fa/
 lang: fa
 lang-ref: "Open Source Friday for Iranians"
 author: Max
