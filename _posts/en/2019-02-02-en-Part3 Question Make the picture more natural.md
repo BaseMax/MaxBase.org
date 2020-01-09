@@ -22,6 +22,7 @@ And thanks to the professor.
 Goal: change the red sign to be blue
 
 
+<!--more-->
 
 ![Make the picture more natural](https://basemax.github.io/assets/image/stop5.jpg)
 

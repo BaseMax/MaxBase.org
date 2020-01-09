@@ -23,6 +23,9 @@ Write code to fix the poppy.png image which should show an orange California Pop
 
 The background is mostly green with some in the upper-right.
 
+
+<!--more-->
+
 ![Make the picture more natural](https://basemax.github.io/assets/image/flower.jpg)
 
 

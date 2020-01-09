@@ -26,6 +26,9 @@ golden gate bridge, shown in red
 Write code that for each pixel copies the red value over to be the green and blue value. The result will be to change the image to grayscale which will look better.
 
 
+
+<!--more-->
+
 ![Make the picture more natural](https://basemax.github.io/assets/image/city3.jpg)
 
 
