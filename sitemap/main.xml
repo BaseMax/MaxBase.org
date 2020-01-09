@@ -5,17 +5,22 @@ layout: compress
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>{{ site.url }}/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>hourly</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
 		<loc>{{ site.url }}/en/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>daily</changefreq>
 		<priority>0.7</priority>
 	</url>
 	<url>
 		<loc>{{ site.url }}/fa/</loc>
-		<changefreq>weekly</changefreq>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+	<url>
+		<loc>{{ site.url }}/category/</loc>
+		<changefreq>monthly</changefreq>
 		<priority>0.7</priority>
 	</url>
 </urlset>

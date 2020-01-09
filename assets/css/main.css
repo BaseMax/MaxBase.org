@@ -133,6 +133,9 @@ ul.list li {
 ul.posts {
 
 }
+ul.posts-tag li {
+	list-style: none;
+}
 .posts-main {
 	margin-left: 25px;
 	margin-right: 25px;

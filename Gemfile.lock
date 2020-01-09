@@ -251,6 +251,7 @@ DEPENDENCIES
   jekyll-category-pages
   jekyll-gist
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-tagging
 
 BUNDLED WITH

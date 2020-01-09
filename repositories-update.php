@@ -139,7 +139,7 @@ function get($url,$headers=[],$reffer="",$auto_redirect=true)
 	return [$body,$header];
 }
 ////////////////////////////////////////////////////////
-$data=get("https://api.github.com/users/basemax/repos?per_page=250");
+$data=get("https://api.github.com/users/basemax/repos?per_page=300");
 $json=json_decode($data[0], true);
 // print_r($json);
 $file="_data/repositories.yml";

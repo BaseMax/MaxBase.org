@@ -2,9 +2,12 @@
 lang: en
 url: https://maxbase.org
 languages: ["en", "fa"]
-permalink: /:year/:month/:day/:categories/:title/
+permalink: /:categories/:title/
+# - /:year/:month/:day/:categories/:title/
+# permalink: "/:categories/:title/"
 #paginate: 2 # <- turn on pagination with two posts per page
-plugins:
+# plugins:
+  # - jekyll-redirect-from
   # - octopress-minify-html
   # - jekyll/tagging
   # - jekyll-category-pages
@@ -34,3 +37,12 @@ excerpt_separator: <!--more-->
 #   categories:
 #     output: true
 #     permalink: /:name/ # optional
+# whitelist:
+  # - jekyll-redirect-from
+# collections:
+#   fa:
+#     output: true
+#     permalink: /fa/:path/
+#   en:
+#     output: true
+#     permalink: /en/:path/

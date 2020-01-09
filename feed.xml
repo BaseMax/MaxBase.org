@@ -18,10 +18,11 @@ layout: compress
 		<title>{{ post.title }}</title>
 		<link href="{{ site.url }}{{ post.url }}"/>
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
-		<id>{{ site.url }}{{ post.id }}/</id>
+		<id>{{ site.url }}{{ post.url }}</id>
 		<content type="html">{{ post.content | xml_escape }}</content>
 	</entry>
 	{% endfor %}
+	{% comment %}
 	{% for category in site.categories %}
 	{% capture category_name %}{{ category | first }}{% endcapture %}
 	<entry>
@@ -38,4 +39,5 @@ layout: compress
 		</content>
 	</entry>
 	{% endfor %}
+	{% endcomment %}
 </feed>

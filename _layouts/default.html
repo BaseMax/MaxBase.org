@@ -11,7 +11,11 @@ layout: compress
 		{% if page.external_url %}
 		<link rel="canonical" href="{{ page.external_url }}">
 		{% else %}
-		<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+			{% if page.blogCanonical %}
+			<link rel="canonical" href="{{ site.url }}/{{ page.blogCanonical }}">
+			{% else %}
+			<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+			{% endif %}
 		{% endif %}
 		<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
 		<link rel="stylesheet" href="{{ site.url }}/assets/css/icon.css">

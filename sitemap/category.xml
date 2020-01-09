@@ -6,7 +6,7 @@ layout: compress
 	{% for category in site.categories %}
 	{% capture category_name %}{{ category | first }}{% endcapture %}
 	<url>
-		<loc>{{ site.url }}/category/{{ category_name }}/</loc>
+		<loc>{{ site.url }}/{{ category_name }}/</loc>
 		<changefreq>daily</changefreq>
 		<priority>0.5</priority>
 	</url>

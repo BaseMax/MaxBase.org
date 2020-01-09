@@ -32,7 +32,7 @@ lang: en
 					<span class="post-meta-category">
 						{% assign sortedCategories = page.categories | sort %}
 						{% for category in sortedCategories %}
-						<a class="link-normal" href="{{ site.url }}/category/{{ category }}">#{{ category }}</a> 
+						<a class="link-normal" href="{{ site.url }}/{{ category }}/">#{{ category }}</a> 
 						{% unless forloop.last %}, {% endunless %}
 						{% endfor %}
 					</span>
@@ -101,6 +101,14 @@ lang: en
 						<li>
 							<!-- <a href="{{ site.url }}/tag/{{ tag }}">#{{ tag }}</a> -->
 							<a>#{{ tag }}</a>
+						</li>
+					{% endfor %}
+				</ul>
+
+				<ul class="subtitles">
+					{% for subtitle in page.subtitles %}
+						<li>
+							<a href="{{ site.url }}/tag/{{ subtitle.slug }}/"><h2>{{ subtitle.name }}</h2></a>
 						</li>
 					{% endfor %}
 				</ul>
