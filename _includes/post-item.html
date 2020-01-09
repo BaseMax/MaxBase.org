@@ -32,11 +32,19 @@
 	{% endcomment %}
 	<div class="clear"></div>
 	<div class="post-text">
-		{% if post.excerpt %}
-			{{ post.excerpt }}
+		{% if showAll %}
+			{{ post.content }}
+		{% else %}
+			{% if post.excerpt %}
+				{{ post.excerpt }}
+			{% else %}
+				{{ post.content }}
+			{% endif %}
 		{% endif %}
 	</div>
 	<div class="clear"></div>
+	{% if showAll %}
+	{% else %}
 	<a class="post-read link-underlined" href="{{ post.url }}">
 		{% if post.lang == "fa" %}
 		مطالعه بیشتر
@@ -44,4 +52,5 @@
 		Read
 		{% endif %}
 	</a>
+	{% endif %}
 </li>
