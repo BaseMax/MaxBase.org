@@ -3,9 +3,9 @@ layout: index
 ---
 <h1>{{page.title}}</h1>
 
-{% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+{% assign posts=site.posts | where:"lang-ref", page.post-ref %}
 {% if posts.size == 0 %}
-	{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+	{% assign posts=site.pages | where:"lang-ref", page.post-ref %}
 {% endif %}
 {% if posts.size > 1 %}
 	{% for post in posts %}
