@@ -3,19 +3,11 @@ layout: compress
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	{% for tag in site.tag %}
 	<url>
-		<loc>{{ site.url }}/contact/</loc>
-		<changefreq>daily</changefreq>
-		<priority>0.2</priority>
+		<loc>{{ site.url }}{{ tag.url }}</loc>
+		<changefreq>weekly</changefreq>
+		<priority>0.4</priority>
 	</url>
-	<url>
-		<loc>{{ site.url }}/about/</loc>
-		<changefreq>daily</changefreq>
-		<priority>0.2</priority>
-	</url>
-	<url>
-		<loc>{{ site.url }}/project/</loc>
-		<changefreq>daily</changefreq>
-		<priority>0.2</priority>
-	</url>
+	{% endfor %}
 </urlset>

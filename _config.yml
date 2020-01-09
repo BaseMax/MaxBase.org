@@ -39,7 +39,10 @@ excerpt_separator: <!--more-->
 #     permalink: /:name/ # optional
 # whitelist:
   # - jekyll-redirect-from
-# collections:
+collections:
+  tag:
+    output: true
+    slug: 
 #   fa:
 #     output: true
 #     permalink: /fa/:path/
