@@ -17,6 +17,8 @@ If a string value is then assigned to $value, it becomes a string.
 
 a variable's type is determined by the context in which the variable is used. (automatic)
 
+<!--more-->
+
 #### An example:
 
 

@@ -10,8 +10,11 @@ tags: et etlang my-programming-language
 title: A few examples of the proposed code in ET programming language
 ---
 
+A few examples of the proposed code in ET programming language.
+
 See the code below:
 
+<!--more-->
 
 ```
 int main()

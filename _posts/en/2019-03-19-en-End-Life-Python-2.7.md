@@ -16,6 +16,7 @@ The End Of Life date (EOL, sunset date) for Python 2.7 has been moved five years
 
 This declaration does not guarantee that bugfix releases will be made on a regular basis, but it should enable volunteers who want to contribute bugfixes for Python 2.7 and it should satisfy vendors who still have to support Python 2 for years to come.
 
+<!--more-->
 
 
 **DEPRECATION:** Python 2.7 will reach the end of its life on January 1st, 2020.

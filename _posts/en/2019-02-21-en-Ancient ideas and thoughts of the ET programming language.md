@@ -17,6 +17,8 @@ When there was an Android operating system.
 
 I suppose this was for before **2015**.
 
+<!--more-->
+
 ![App Icon](https://basemax.github.io/assets/image/icon.png)
 
 

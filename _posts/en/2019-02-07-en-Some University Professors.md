@@ -33,6 +33,8 @@ I've heard this recently from a professor.
 A person has managed and engineered more than 200 valuable buildings.
 No cost (religious buildings are worth billions)
 
+<!--more-->
+
 He is a famous person in the region.
 
 One who can relate transitive concepts of mathematics, such as integral, and so on to the unity of God.
