@@ -20,6 +20,8 @@ subtitles:
     slug: "best-github-programmers-2020"
   - name: "برترین توسعه دهندگان گیت‌هاب 2020"
     slug: "top-github-developers-2020"
+  - name: "افراد کلیدی گیت‌هاب 2020"
+    slug: "key-people-in-the-github-2020"
 ---
 
 سلام.
