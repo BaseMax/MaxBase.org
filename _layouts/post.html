@@ -128,7 +128,10 @@ lang: en
 				{% endif %}
 				<ul class="posts posts-main">
 					{% for post in site.related_posts limit:15 %}
+					{% if post.private %}
+					{% else %}
 					{% include post-item-short.html %}
+					{% endif %}
 					{% endfor %}
 				</ul>
 			</div>
