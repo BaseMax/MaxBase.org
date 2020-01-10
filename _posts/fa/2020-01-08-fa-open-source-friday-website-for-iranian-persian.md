@@ -12,7 +12,7 @@ tags: github opensourcefriday persian translate جمعه-منبع-باز-چیس�
 subtitles:
   - name: "جمعه منبع آزاد جمعه به زبان فارسی رونمایی شد"
     slug: "open-source-friday-was-unveiled-in-persian"
-  - name: "کمپین کمک به دنیای نرم افزار آزاد به زبان فارسی با کمک گیت هاب آغاز شد"
+  - name: "کمپین کمک به دنیای نرم افزار آزاد به زبان فارسی توسط گیت هاب آغاز شد"
     slug: "the-campaign-to-help-the-world-of-free-software-started-in-persian-with-help-of-github"
 ---
 
