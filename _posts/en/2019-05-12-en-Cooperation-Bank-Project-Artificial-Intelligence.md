@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-05-12
-permalink: /my-programming-language/cooperation-bank-project-artificial-intelligence/en/
+permalink: /my-programming-language/cooperation-bank-project-artificial-intelligence-en/
 lang: en
 author: Max
 categories: my-programming-language

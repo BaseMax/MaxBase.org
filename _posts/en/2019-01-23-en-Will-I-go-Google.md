@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-01-23
-permalink: /job/will-i-go-google-llc-company/en/
+permalink: /job/will-i-go-google-llc-company-en/
 lang: en
 author: Max
 categories: job

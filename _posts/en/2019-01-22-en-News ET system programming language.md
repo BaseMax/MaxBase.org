@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-01-22
-permalink: /my-programming-language/what-news-from-ET-system-programming-language/en/
+permalink: /my-programming-language/what-news-from-et-system-programming-language-en/
 lang: en
 author: Max
 categories: my-programming-language

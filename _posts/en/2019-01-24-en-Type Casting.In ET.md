@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-01-24
-permalink: /my-programming-language/type-casting-n-ET/en/
+permalink: /my-programming-language/type-casting-in-et-en/
 lang: en
 author: Max
 categories: my-programming-language

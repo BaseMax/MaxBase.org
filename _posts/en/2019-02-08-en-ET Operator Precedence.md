@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-08
-permalink: /my-programming-language/ET-operator-precedence/en/
+permalink: /my-programming-language/et-operator-precedence-en/
 lang: en
 author: Max
 categories: my-programming-language

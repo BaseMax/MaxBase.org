@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-01-27
-permalink: /my-programming-language/example-code-ET-programming-language/en/
+permalink: /my-programming-language/example-code-et-programming-language-en/
 lang: en
 author: Max
 categories: my-programming-language

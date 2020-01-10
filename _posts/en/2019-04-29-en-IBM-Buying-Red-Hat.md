@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-04-29
-permalink: /technology/IBM-buying-red-hat/en/
+permalink: /technology/ibm-buying-red-hat-en/
 lang: en
 author: Max
 categories: technology

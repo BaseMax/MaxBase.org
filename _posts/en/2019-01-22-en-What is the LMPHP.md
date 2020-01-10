@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-01-22
-permalink: /project/what-is-the-LMPHP/en/
+permalink: /project/what-is-the-lmphp-en/
 lang: en
 author: Max
 categories: project

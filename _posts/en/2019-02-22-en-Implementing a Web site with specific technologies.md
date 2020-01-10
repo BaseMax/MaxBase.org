@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-22
-permalink: /project/implementing-a-Web-site-with-specific-technologies/en/
+permalink: /project/implementing-a-Web-site-with-specific-technologies-en/
 lang: en
 author: Max
 categories: project

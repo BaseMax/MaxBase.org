@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-27
-permalink: /project/move-blog-to-new-site-and-server/en/
+permalink: /project/move-blog-to-new-site-and-server-en/
 lang: en
 author: Max
 categories: project

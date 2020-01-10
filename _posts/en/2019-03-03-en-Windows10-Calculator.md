@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-03
-permalink: /programming/windows10-calculator/en/
+permalink: /programming/windows10-calculator-en/
 lang: en
 author: Max
 categories: programming

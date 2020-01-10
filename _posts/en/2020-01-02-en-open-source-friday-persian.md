@@ -2,7 +2,7 @@
 layout: post
 title: Open Source Friday - Persian Language
 date: 2020-01-02
-permalink: /github/open-source-friday-persian/en/
+permalink: /github/open-source-friday-persian-en/
 lang: en
 lang-ref: "Open Source Friday - Persian Language"
 author: Max

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-01-31
-permalink: /challenge/question-make-the-picture-more-natural-part2/en/
+permalink: /challenge/question-make-the-picture-more-natural-part2-en/
 lang: en
 author: Max
 categories: challenge

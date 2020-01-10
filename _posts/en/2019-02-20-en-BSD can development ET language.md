@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-20
-permalink: /my-programming-language/BSD-can-development-ET-language/en/
+permalink: /my-programming-language/bsd-can-development-et-language-en/
 lang: en
 author: Max
 categories: my-programming-language

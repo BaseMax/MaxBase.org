@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-06-10
-permalink: /project/what-is-JPOPHP/en/
+permalink: /project/what-is-jpophp-en/
 lang: en
 author: Max
 categories: project

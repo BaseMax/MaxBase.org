@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-16
-permalink: /project/relation-of-the-number-of-matrixs-available-in-matrix/en/
+permalink: /project/relation-of-the-number-of-matrixs-available-in-matrix-en/
 lang: en
 author: Max
 categories: project

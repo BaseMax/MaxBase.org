@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-25
-permalink: /conference/speech-at-a-seminar-and-conference-rust-programmingllanguage/en/
+permalink: /conference/speech-at-a-seminar-and-conference-rust-programmingllanguage-en/
 lang: en
 author: Max
 categories: conference

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-21
-permalink: /my-programming-language/ancient-ideas-and-thoughts-the-ET-programming-language/en/
+permalink: /my-programming-language/ancient-ideas-and-thoughts-the-et-programming-language-en/
 lang: en
 author: Max
 categories: my-programming-language

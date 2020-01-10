@@ -2,7 +2,7 @@
 layout: post
 title: We want to add Persian Language to OpenSourceFriday website
 date: 2020-01-01
-permalink: /github/we-want-add-persian-language-to-opensourcefriday-website/en/
+permalink: /github/we-want-add-persian-language-to-opensourcefriday-website-en/
 lang: en
 lang-ref: "We want to add Persian Language to OpenSourceFriday website"
 author: Max

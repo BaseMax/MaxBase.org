@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-04-06
-permalink: /technology/new-deep-learning-research-project-adversarial networks-at-nvidia/en/
+permalink: /technology/new-deep-learning-research-project-adversarial networks-at-nvidia-en/
 lang: en
 author: Max
 categories: technology

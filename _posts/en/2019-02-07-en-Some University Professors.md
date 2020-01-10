@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-02-07
-permalink: /university/some-university-professors/en/
+permalink: /university/some-university-professors-en/
 lang: en
 author: Max
 categories: university

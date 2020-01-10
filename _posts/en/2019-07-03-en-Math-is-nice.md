@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-07-03
-permalink: /math/math-is-nice/en/
+permalink: /math/math-is-nice-en/
 lang: en
 author: Max
 categories: math

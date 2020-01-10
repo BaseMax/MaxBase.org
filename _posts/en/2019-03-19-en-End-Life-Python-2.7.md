@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-19
-permalink: /programming/end-life-python-2.7/en/
+permalink: /programming/end-life-python-27-en/
 lang: en
 author: Max
 categories: programming

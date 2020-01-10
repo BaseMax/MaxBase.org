@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-04-05
-permalink: /programming/programming-48-inch-monitor/en/
+permalink: /programming/programming-48-inch-monitor-en/
 lang: en
 author: Max
 categories: programming

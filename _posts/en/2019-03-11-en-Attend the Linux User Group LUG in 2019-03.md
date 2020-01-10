@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-03-11
-permalink: /meeting/attend-linux-user-group-lug-2019-03/en/
+permalink: /meeting/attend-linux-user-group-lug-2019-03-en/
 lang: en
 author: Max
 categories: meeting
