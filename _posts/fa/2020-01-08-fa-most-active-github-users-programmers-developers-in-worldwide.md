@@ -48,6 +48,8 @@ A list of the most active GitHub users
 
 <!--more-->
 
+جالب بود که خودم را در لیست زیر به عنوان (28 امین برنامه نویس فعال سراسر دنیا](https://maxbase.org/github/best-programmer-and-user-open-source-in-github-2020-fa/) دیدم.
+
 <table class="users-list">
             <tbody><tr>
               <th>Rank</th>
