@@ -17,7 +17,10 @@ I love computer scientists, researchers. (BaseMax, Base Max)
 <h2>Posts</h2>
 <ul class="posts posts-main">
 		{% for post in site.posts %}
+		{% if post.private %}
+		{% else %}
 		{% include post-item-short.html %}
+		{% endif %}
 		{% endfor %}
 		</ul>
 		<br><br>

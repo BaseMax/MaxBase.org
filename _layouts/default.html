@@ -17,6 +17,13 @@ layout: compress
 			<link rel="canonical" href="{{ site.url }}{{ page.url }}">
 			{% endif %}
 		{% endif %}
+		{% if page.noindex %}
+		<meta name="robots" content="noindex, nofollow">
+		{% else %}
+			{% if page.private %}
+			<meta name="robots" content="noindex, nofollow">
+			{% endif %}
+		{% endif %}
 		<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
 		<link rel="stylesheet" href="{{ site.url }}/assets/css/icon.css">
 		<!--[if lt IE 8]><!-->

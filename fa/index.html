@@ -7,7 +7,10 @@ title: Max Base - مکس بیس
 <ul class="posts">
 		{% assign posts=site.posts | where:"lang", page.lang %}
 		{% for post in posts %}
+		{% if post.private %}
+		{% else %}
 		{% include post-item.html %}
+		{% endif %}
 		{% endfor %}
 		</ul>
 		<br><br>
