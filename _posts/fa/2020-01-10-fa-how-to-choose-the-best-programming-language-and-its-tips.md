@@ -10,20 +10,12 @@ categories: programming
 description: همواره این سوال از متخصصین برنامه نویسی پرسیده می شود که بهترین زبان برنامه نویسی کدام است؟ یا چه زبان برنامه نویسی می تواند بهترین انتخاب باشد؟
 tags: programming programming-language best-programming-language best-tools compiler interpreter
 subtitles:
-  - name: "روش انتخاب بهترین زبان برنامه نویسی"
-    slug: "how-to-choose-the-best-programming-language"
-  - name: "روش انتخاب بهترین زبان برنامه نویسی در ایران"
-    slug: "how-to-choose-the-best-programming-language-in-iran"
-  - name: "روش انتخاب بهترین زبان برنامه نویسی در سراسر دنیا"
-    slug: "how-to-choose-the-best-programming-language-in-the-world"
-  - name: "نکات مهم در مورد انتخاب زبان برنامه نویسی"
-    slug: "important-tips-on-choosing-a-programming-language"
-  - name: "نکات مهم در انتخاب بهترین زبان برنامه نویسی"
-    slug: "important-tips-in-choosing-the-best-programming-language"
-  - name: "کدام زبان برنامه نویسی برای پروژه مناسب است؟"
-    slug: "what-which-programming-language-is-suitable-for-the-project"
----
-
+  - name: "برای انتخاب بهترین زبان برنامه نویسی به چه نکاتی دقت کنیم؟"
+    slug: "what-tips-to-choose-the-best-programming-language"
+  - name: "روش انتخاب بهترین زبان برنامه نویسی چیست؟"
+    slug: "what-is-the-best-programming-language"
+  - name: "بهترین زبان برنامه نویسی از نظر متخصصین"
+    slug: "what-is-comment-of-experts-from-best-programming-language"
 سلام.
 
 ### بهترین زبان برنامه نویسی
