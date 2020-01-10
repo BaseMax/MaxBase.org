@@ -15,11 +15,14 @@ title: "Categories - Max Base"
 				</a>
 				<ul class="posts posts-main">
 					{% for post in site.categories[category_name] %}
-					<li>
-						<article class="archive-item">
-							<h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-						</article>
-					</li>
+					{% if post.private %}
+					{% else %}
+						<li>
+							<article class="archive-item">
+								<h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+							</article>
+						</li>
+					{% endif %}
 					{% endfor %}
 				</ul>
 			</div>

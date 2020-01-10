@@ -7,6 +7,9 @@ permalink: /job/
 <h2>Job Posts</h2>
 <ul class="posts posts-main">
 		{% for post in site.categories["job"] %}
-		{% include post-item-short.html %}
+        {% if post.private %}
+        {% else %}
+        {% include post-item-short.html %}
+        {% endif %}
 		{% endfor %}
 		</ul>
