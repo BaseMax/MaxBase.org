@@ -1,7 +1,7 @@
 ---
 layout: post
 title: بهترین زبان برنامه نویسی
-date: 2020-01-09
+date: 2020-01-10
 permalink: /programming/best-programming-language/fa/
 lang: fa
 lang-ref: "Best programmer language"
