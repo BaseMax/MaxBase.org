@@ -12,15 +12,11 @@ categories: github
 description: با فعالیت هایی که Lauri Piispanen انجام داده است و پروژه هایی که نوشته است وب سایت commits.top با این هدف راه اندازی شده است تا برترین کاربران جامعه گیت هاب در سراسر جهان و هر کشور را مشخص و شناسایی کند.
 tags: github گیتهاب گیت-هاب برنامه-نویس توسعه-دهنده فعال-ترین-برنامه-نویس-ها فعال-ترین-توسعه-دهنده-ها جامعه-منبع-باز-گیت-هاب جامعه-اپن-سورس نرم-افزار-آزاد
 subtitles:
-  - name: "فعال ترین برنامه نویسان GitHub در سراسر جهان - 2020"
-    slug: "the-most-active-github-programmers-worldwide-2020"
-  - name: "فعال ترین برنامه نویسان GitHub - 2020"
-    slug: "the-most-active-github-programmers-2020"
   - name: "بهترین برنامه نویس های گیت هاب 2020"
     slug: "best-github-programmers-2020"
   - name: "برترین توسعه دهندگان گیت‌هاب 2020"
     slug: "top-github-developers-2020"
-  - name: "افراد کلیدی گیت‌هاب 2020"
+  - name: "افراد کلیدی و اصلی گیت‌هاب 2020"
     slug: "key-people-in-the-github-2020"
 ---
 
