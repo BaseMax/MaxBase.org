@@ -1,6 +1,6 @@
 ---
 layout: post
-title: از کف جامعه برنامه نویسان گیت هاب تا رتبه جهانی به عنوان فعالیت ترین کاربران دنیا
+title:  چگونه از یک کاربر معمولی گیت هاب به رتبه جهانی رسیدم
 date: 2020-01-09
 permalink: /github/best-programmer-and-user-open-source-in-github-2020-fa/
 lang: fa

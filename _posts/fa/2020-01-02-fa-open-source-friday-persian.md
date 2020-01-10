@@ -10,7 +10,7 @@ categories: github
 description: خوشبختانه بعد از چند روز توانستیم زبان فارسی را نیز در وب سایت opensourcefriday.com با هماهنگی شرکت گیت هاب انجام دهیم.
 tags: github opensourcefriday persian translate
 subtitles:
-  - name: "ورود به دنیای نرم افزارهای رایگان در ایران با کمک GitHub (گیت‌هاب)"
+  - name: "نرم افزارهای رایگان در ایران با کمک GitHub (گیت‌هاب)"
     slug: "entering-the-world-of-free-software-in-iran-with-the-help-of-github"
 ---
 
