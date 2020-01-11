@@ -18,6 +18,8 @@ subtitles:
     slug: "the-github-campaign-started-helping-the-free-software-world-persian"
   - name: "استارت کمپین کمک به دنیای نرم افزار آزاد توسط گیت هاب"
     slug: "campaign-helping-the-free-software-world-by-github-persian"
+private: true
+index: true
 ---
 
 سلام.

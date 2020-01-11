@@ -18,6 +18,8 @@ subtitles:
     slug: "top-github-developers-2020"
   - name: "افراد کلیدی و اصلی گیت‌هاب 2020"
     slug: "key-people-in-the-github-2020"
+private: true
+index: true
 ---
 
 سلام.

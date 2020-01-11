@@ -21,7 +21,10 @@ layout: compress
 		<meta name="robots" content="noindex, nofollow">
 		{% else %}
 			{% if page.private %}
-			<meta name="robots" content="noindex, nofollow">
+				{% if page.index %}
+				{% else %}
+				<meta name="robots" content="noindex, nofollow">
+				{% endif %}
 			{% endif %}
 		{% endif %}
 		<link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">

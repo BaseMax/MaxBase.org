@@ -12,6 +12,8 @@ tags: github
 subtitles:
   - name: "چگونه من یکی از فعال ترین برنامه نویسان جهان در گیت هاب شدم؟"
     slug: "how-did-i-become-one-of-the-most-active-programmers-in-the-world-at-github-2020"
+private: true
+index: true
 ---
 
 سلام.
