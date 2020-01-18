@@ -27,3 +27,4 @@ Links:
 
 - https://forum.codeigniter.com/user-2.html
 - https://forum.codeigniter.com/thread-75235.html
+- https://github.com/jim-parry
