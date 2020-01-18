@@ -7,7 +7,7 @@ author: Max
 categories: programming
 description: For the last few months our project lead, Jim, has been struggling with lung cancer. He was undergoing treatment. Unfortunately, it wasn't enough. A few days ago he passed away in his sleep.
 tags: programming
-title: Important News about Jim Parry and the Project
+title: Important News about Jim Parry and the Codeigniter Project
 ---
 
 I've got some hard news to share with you.
