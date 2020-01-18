@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2020-01-18
-permalink: /project/important-news-about-jim-parry-and-the-codeigniter-project-en/
+permalink: /programming/important-news-about-jim-parry-and-the-codeigniter-project-en/
 lang: en
 author: Max
 categories: programming
