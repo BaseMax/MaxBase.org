@@ -22,9 +22,8 @@ We are still trying to sort things out but it looks like I'll be stepping into r
 
 Turns out Jim's birthday was February 24th. We would like to shoot for that date for a final release of 4.0. In order for that to happen, though, I'll need your help. Jumping in and helping any reported bugs over at Github is great, but we also need help cleaning up the docs and ensuring we didn't miss anything, and that it's easy to understand. Every bit helps us get to this finish line.
 
-
 Links:
 
 - https://forum.codeigniter.com/user-2.html
-- https://forum.codeigniter.com/thread-75235.html
+- https://forum.codeigniter.com/thread-75235-page-2.html
 - https://github.com/jim-parry
