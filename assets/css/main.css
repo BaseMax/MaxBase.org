@@ -100,7 +100,7 @@ a.link-normal:hover {
 	background: transparent;
 	text-decoration: none;
 }
-.hidden {
+.hidden, .hidden * {
 	display: none;
 	visibility: hidden;
 	opacity: 0;
