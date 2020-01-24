@@ -19,8 +19,9 @@ layout: compress
 		<loc>{{ site.url}}/sitemap/page.xml</loc>
 		<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 	</sitemap>
-	<sitemap>
+<!-- 	<sitemap>
 		<loc>{{ site.url}}/sitemap/category.xml</loc>
 		<lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
 	</sitemap>
+ -->
 </sitemapindex>
