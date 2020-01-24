@@ -9,12 +9,7 @@ layout: compress
 		<priority>1</priority>
 	</url>
 	<url>
-		<loc>{{ site.url }}/en/</loc>
-		<changefreq>daily</changefreq>
-		<priority>1</priority>
-	</url>
-	<url>
-		<loc>{{ site.url }}/fa/</loc>
+		<loc>{{ site.url }}/blog/</loc>
 		<changefreq>daily</changefreq>
 		<priority>1</priority>
 	</url>
