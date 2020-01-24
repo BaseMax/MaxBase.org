@@ -49,3 +49,7 @@ collections:
 #   en:
 #     output: true
 #     permalink: /en/:path/
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
