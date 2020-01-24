@@ -18,21 +18,5 @@ subtitles:
     slug: "the-github-campaign-started-helping-the-free-software-world-persian"
   - name: "استارت کمپین کمک به دنیای نرم افزار آزاد توسط گیت هاب"
     slug: "campaign-helping-the-free-software-world-by-github-persian"
+redirect_to: https://fa.maxbase.org/github/open-source-friday-website-for-iranian-persian/
 ---
-
-سلام.
-
-همانطور که در مطلب [جمعه منبع آزاد - زبان فارسی](https://fa.maxbase.org/github/open-source-friday-persian/) و [ما می خواهیم زبان فارسی را به وب سایت OpenSourceFriday اضافه کنیم](https://fa.maxbase.org/github/we-want-add-persian-language-to-opensourcefriday-website/) گفته بودم اکنون شما می توانید فعالیت های منبع آزاد و اوپن سورسی که در روز های جمعه انجام داده اید را مدیریت و مشاهده کنید.
-
-
-جمعه منبع باز یا به عبارتی open source friday دنبال کننده هدف آزادی نرم افزار هاست و هدف از کمپین جمعه های اوپن سورس این است که سعی کنید در آخر هفته های خود یا در زمان هایی که مقداری فرصت دارید تلاش کنید تا نرم افزار هایی که به آنها وابسته هستید را توسعه دهید.
-
-امید آن دارم که این امر در شرکت ها و سازمان ها نیز به نحوی ورود کند تا روزی کارفرماها این را به برنامه نویسان خود نیز بگویند که آخر هفته ها را ساعتی را به منبع باز و اوپن سورس اختصاص دهند.
-
-[مشاهده وب سایت جمعه منبع آزاد opensourcefriday.com به زبان فارسی](https://opensourcefriday.com/?locale=fa)
-
-با تشکر
-
-مکس بیس
-
-نگهدارنده منبع آزاد گیت هاب
