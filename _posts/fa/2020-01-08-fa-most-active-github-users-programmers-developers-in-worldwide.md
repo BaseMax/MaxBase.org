@@ -2,7 +2,7 @@
 layout: post
 title: فعال ترین کاربران و برنامه نویسان GitHub در سراسر جهان
 date: 2020-01-08
-permalink: /github/most-active-github-users-programmers-developers-in-worldwide-2020/
+permalink: /github/most-active-github-users-programmers-developers-in-worldwide-2020-fa/
 lang: fa
 lang-ref: "Most active GitHub users in Worldwide 2020"
 redirect_from:

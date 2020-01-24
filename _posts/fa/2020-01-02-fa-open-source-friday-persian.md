@@ -2,7 +2,7 @@
 layout: post
 title: جمعه منبع آزاد - زبان فارسی
 date: 2020-01-02
-permalink: /github/open-source-friday-persian/
+permalink: /github/open-source-friday-persian-fa/
 lang: fa
 lang-ref: "Open Source Friday - Persian Language"
 author: Max
