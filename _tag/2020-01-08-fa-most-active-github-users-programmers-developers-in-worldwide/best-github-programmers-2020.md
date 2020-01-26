@@ -6,4 +6,5 @@ post-ref: "Most active GitHub users in Worldwide 2020"
 slug: "best-github-programmers-2020"
 permalink: /tag/best-github-programmers-2020/
 redirect_to: https://fa.maxbase.org/tag/best-github-programmers-2020/
+private: true
 ---

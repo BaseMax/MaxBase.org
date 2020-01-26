@@ -6,4 +6,5 @@ post-ref: "How to choose the best programming language and its tips"
 slug: "what-is-the-best-programming-language"
 permalink: /tag/what-is-the-best-programming-language/
 redirect_to: https://fa.maxbase.org/tag/what-is-the-best-programming-language/
+private: true
 ---

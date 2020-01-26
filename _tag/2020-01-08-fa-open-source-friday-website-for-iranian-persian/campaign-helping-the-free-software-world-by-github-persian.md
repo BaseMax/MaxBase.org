@@ -6,4 +6,5 @@ post-ref: "Open Source Friday for Iranians"
 slug: "campaign-helping-the-free-software-world-by-github-persian"
 permalink: /tag/campaign-helping-the-free-software-world-by-github-persian/
 redirect_to: https://fa.maxbase.org/tag/campaign-helping-the-free-software-world-by-github-persian/
+private: true
 ---
