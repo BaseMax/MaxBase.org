@@ -19,4 +19,5 @@ subtitles:
   - name: "افراد کلیدی و اصلی گیت‌هاب 2020"
     slug: "key-people-in-the-github-2020"
 redirect_to: https://fa.maxbase.org/github/most-active-github-users-programmers-developers-in-worldwide-2020/
+private: true
 ---

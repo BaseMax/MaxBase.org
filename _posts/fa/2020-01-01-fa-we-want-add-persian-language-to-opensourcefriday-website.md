@@ -10,4 +10,5 @@ categories: github
 description: سال 2020 مبارک با خبری خوب از من, ما در حال اضافه کردن زبان فارسی به این وب سایت هستیم.
 tags: github opensourcefriday persian translate
 redirect_to: https://fa.maxbase.org/github/we-want-add-persian-language-to-opensourcefriday-website/
+private: true
 ---

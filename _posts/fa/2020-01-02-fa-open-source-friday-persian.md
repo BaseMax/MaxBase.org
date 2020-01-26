@@ -13,4 +13,5 @@ subtitles:
   - name: "نرم افزارهای رایگان در ایران با کمک GitHub (گیت‌هاب)"
     slug: "entering-the-world-of-free-software-in-iran-with-the-help-of-github"
 redirect_to: https://fa.maxbase.org/github/open-source-friday-persian/
+private: true
 ---

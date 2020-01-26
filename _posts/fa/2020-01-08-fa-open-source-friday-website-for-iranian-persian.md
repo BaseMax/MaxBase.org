@@ -19,4 +19,5 @@ subtitles:
   - name: "استارت کمپین کمک به دنیای نرم افزار آزاد توسط گیت هاب"
     slug: "campaign-helping-the-free-software-world-by-github-persian"
 redirect_to: https://fa.maxbase.org/github/open-source-friday-website-for-iranian-persian/
+private: true
 ---

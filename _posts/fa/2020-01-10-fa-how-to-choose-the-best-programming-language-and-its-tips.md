@@ -17,4 +17,5 @@ subtitles:
   - name: "بهترین زبان برنامه نویسی از نظر متخصصین"
     slug: "what-is-comment-of-experts-from-best-programming-language"
 redirect_to: https://fa.maxbase.org/programming/how-to-choose-the-best-programming-language-and-its-tips/
+private: true
 ---
