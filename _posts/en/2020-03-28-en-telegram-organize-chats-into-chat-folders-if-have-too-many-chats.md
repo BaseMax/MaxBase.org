@@ -3,7 +3,7 @@ layout: post
 title: "Telegram: You can categorize and manage chats individually"
 date: 2020-03-28
 permalink: /technology/telegram-organize-chats-into-chat-folders-if-have-too-many-chats/
-lang: fa
+lang: en
 author: Max
 categories: technology
 description: "Finally the telegram in its new version builds the features and capabilities that many were looking for."
